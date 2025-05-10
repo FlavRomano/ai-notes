@@ -1,0 +1,8 @@
+- tags helps us create output
+- categorize notes
+	- question with tag "question"
+	- idea notes with functional tags that refers with our own studies NOT TOPICS!!!
+	- status tags
+		- "build" indicates idea to develop
+		- "check" idea jot downed but not very accurate yet
+		- "toread", "towatch"
