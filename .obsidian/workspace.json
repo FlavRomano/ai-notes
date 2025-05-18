@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202505171148.md",
+                "file": "202505181757.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202505171148"
+              "title": "202505181757"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mental overloa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -182,23 +182,30 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6e992b47046f29c7",
+  "active": "27865e54eb3aba83",
   "lastOpenFiles": [
-    "Utils/template/qec-template.md",
+    "202505181532.md",
+    "202505181757.md",
+    "202505181628.md",
+    "202505181545.md",
+    "202505111656.md",
+    "202505111651.md",
+    "202505111648.md",
+    "202505111645.md",
+    "202505111640.md",
+    "202505111532.md",
+    "202505111445.md",
+    "202505111444.md",
+    "202505181552.md",
     "202505171148.md",
+    "Utils/template/qec-template.md",
     "202505171100.md",
     "Utils/template",
     "202505171106.md",
-    "202505111656.md",
-    "202505111651.md",
-    "202505111645.md",
     "202505111611.md",
-    "202505111648.md",
     "books/aima/202505111630.md",
     "Years/1st Year/1st Semester/AI fundamentals/Introduction/2. agents/202505111520.md",
     "Pasted image 20250511164450.png",
-    "202505111640.md",
-    "202505111532.md",
     "books/aima/aima.pdf",
     "books/aima",
     "books/Untitled.md",
@@ -208,15 +215,8 @@
     "202505111525.md",
     "Years/1st Year/1st Semester/AI fundamentals/Introduction/2. agents/02_agents.pdf",
     "202505111504.md",
-    "202505111444.md",
     "Years/1st Year/1st Semester/AI fundamentals/Introduction/2. agents",
-    "202505111445.md",
     "2025-05-11.md",
-    "Untitled.md",
-    "Utils/Zettelkasten/Make a note search friendly.md",
-    "Years/1st Year/1st Semester/AI fundamentals/Introduction/2. Rational Agents architecture.md",
-    "Years/1st Year/1st Semester/AI fundamentals/Introduction/1. Course intro.md",
-    "Utils/Zettelkasten/Three types of notes.md",
     "Utils/Zettelkasten",
     "Utils",
     "Years/1st Year/1st Semester/AI fundamentals/Introduction",
