@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e1bafb3ef62c26d",
+        "id": "c3b4569374a2cd38",
         "type": "tabs",
         "children": [
           {
-            "id": "396b32af2ce3f684",
+            "id": "8bb2abd72cc72902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202505211229.md",
+                "file": "202505231244.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202505211229"
+              "title": "202505231244"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ml-core  ",
+                "query": "linearMappi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -182,36 +183,45 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "396b32af2ce3f684",
+  "active": "8bb2abd72cc72902",
   "lastOpenFiles": [
-    "202505211225.md",
-    "202505211222.md",
-    "202505211221.md",
-    "202505211229.md",
-    "202505211213.md",
-    "Utils/template/fleeting-template.md",
-    "Utils/template/qec-template.md",
-    "Utils/Zettelkasten/Three types of notes.md",
-    "Utils/Zettelkasten/Three things.md",
-    "Utils/Zettelkasten/Process.md",
-    "Utils/Zettelkasten/Make a note atomic.md",
-    "Utils/Zettelkasten/Connection (Set up the boxes).md",
-    "Utils/Zettelkasten/Capturing notes.md",
-    "202505181921.md",
-    "202505171148.md",
-    "202505181812.md",
-    "202505181757.md",
-    "202505111445.md",
-    "202505181532.md",
-    "202505181628.md",
-    "202505181545.md",
-    "202505111656.md",
-    "202505111651.md",
-    "202505111648.md",
-    "202505111645.md",
-    "202505111640.md",
+    "Untitled 1.md",
+    "202505231244.md",
+    "202505231237.md",
+    "202505231221.md",
+    "202505231211.md",
+    "Pasted image 20250523122010.png",
+    "Pasted image 20250523121936.png",
+    "Untitled.md",
+    "202505231152.md",
+    "202505231201.md",
+    "202505231140.md",
+    "Pasted image 20250523115022.png",
+    "202505231127.md",
+    "202505231131.md",
+    "202505231025.md",
+    "202505231036.md",
+    "202505231009.md",
+    "202505231019.md",
+    "202505231017.md",
+    "202505231015.md",
+    "202505231013.md",
+    "202505231004.md",
+    "Pasted image 20250523100752.png",
+    "Pasted image 20250523100740.png",
+    "Pasted image 20250523100730.png",
+    "202505230954.md",
+    "Pasted image 20250523100104.png",
+    "Pasted image 20250523100014.png",
+    "Pasted image 20250523095545.png",
+    "202505230934.md",
+    "202505230930.md",
+    "202505230924.md",
+    "202505230937.md",
+    "202505230917.md",
+    "Pasted image 20250523092003.png",
+    "202505230907.md",
     "Utils/template",
-    "Pasted image 20250511164450.png",
     "books/aima/aima.pdf",
     "books/aima",
     "books",
