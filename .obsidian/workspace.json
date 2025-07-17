@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d151e3c75db3a6cd",
+        "id": "8f03ea33e7b5b470",
         "type": "tabs",
         "children": [
           {
-            "id": "43022c29da4f4885",
+            "id": "b0be77a5546ec834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202506281725.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202506281725"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "joint",
+                "query": "tag:spark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +179,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "43022c29da4f4885",
+  "active": "b0be77a5546ec834",
   "lastOpenFiles": [
-    "202506281649.md",
+    "202507171700.md",
+    "202507131831.md",
+    "202507131839.md",
+    "202507131823.md",
+    "Pasted image 20250713183449.png",
+    "202507131829.md",
+    "Pasted image 20250713182637.png",
+    "Untitled 5.md",
+    "202507131818.md",
+    "202506301522.md",
+    "202506301515.md",
+    "202506301440.md",
     "202506281725.md",
+    "202506281649.md",
     "202506281615.md",
     "202506271134.md",
     "Pasted image 20250628161036.png",
@@ -204,23 +212,11 @@
     "202506281203.md",
     "202506271516.md",
     "202506271130.md",
-    "202506271029.md",
-    "202506271046.md",
-    "202506271041.md",
-    "202506271022.md",
-    "202506271020.md",
-    "202506271011.md",
-    "202506270951.md",
-    "202506261711.md",
-    "202506261708.md",
-    "202506261548.md",
     "Pasted image 20250523170734.png",
     "Pasted image 20250523122010.png",
     "Pasted image 20250523121936.png",
     "Pasted image 20250523115022.png",
     "Pasted image 20250523100752.png",
-    "Pasted image 20250523100740.png",
-    "Pasted image 20250523100730.png",
     "Utils/template",
     "books/aima/aima.pdf",
     "books/aima",
