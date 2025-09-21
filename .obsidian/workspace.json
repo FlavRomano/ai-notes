@@ -11,10 +11,14 @@
             "id": "d7fabf662851483a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "202509211222.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "202509211222"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -178,8 +183,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "27865e54eb3aba83",
+  "active": "d7fabf662851483a",
   "lastOpenFiles": [
+    "202509211208.md",
+    "202509211222.md",
+    "Pasted image 20250921121033.png",
+    "202509211157.md",
+    "Pasted image 20250921120157.png",
+    "Pasted image 20250921115835.png",
     "Untitled 7.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -207,15 +218,9 @@
     "202509191431.md",
     "202509191426.md",
     "202509191421.md",
-    "202509191402.md",
-    "202509182215.md",
     "Pasted image 20250918221753.png",
     "Pasted image 20250918221557.png",
-    "202509182155.md",
     "Pasted image 20250918215545.png",
-    "Pasted image 20250713183449.png",
-    "Pasted image 20250713182637.png",
-    "Pasted image 20250628161036.png",
     "Utils/template",
     "books/aima/aima.pdf",
     "books/aima",
