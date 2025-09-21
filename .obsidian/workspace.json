@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202509211222.md",
-                "mode": "preview",
+                "file": "202509211313.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509211222"
+              "title": "202509211313"
             }
           }
         ]
@@ -185,14 +185,17 @@
   },
   "active": "d7fabf662851483a",
   "lastOpenFiles": [
-    "202509211208.md",
+    "Untitled.md",
+    "202509211313.md",
+    "202509211244.md",
+    "Pasted image 20250921131130.png",
     "202509211222.md",
+    "202509211208.md",
     "Pasted image 20250921121033.png",
     "202509211157.md",
     "Pasted image 20250921120157.png",
     "Pasted image 20250921115835.png",
     "Untitled 7.md",
-    "Untitled.md",
     "Untitled 1.md",
     "202509211124.md",
     "Pasted image 20250921113304.png",
@@ -216,11 +219,8 @@
     "202509191435.md",
     "202509191433.md",
     "202509191431.md",
-    "202509191426.md",
-    "202509191421.md",
     "Pasted image 20250918221753.png",
     "Pasted image 20250918221557.png",
-    "Pasted image 20250918215545.png",
     "Utils/template",
     "books/aima/aima.pdf",
     "books/aima",
