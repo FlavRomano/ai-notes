@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "202510051647.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,16 +256,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0b9682cfe7f25779",
+  "active": "1126f37f130e688e",
   "lastOpenFiles": [
-    "202510051647.md",
     "202510051652.md",
-    "Pasted image 20251005170053.png",
-    "202510051553.md",
-    "Pasted image 20251005164722.png",
+    "202510051502.md",
     "202510051532.md",
     "202510051540.md",
-    "202510051502.md",
+    "202510051553.md",
+    "202510051647.md",
+    "Pasted image 20251005170053.png",
+    "Pasted image 20251005164722.png",
     "Pasted image 20251005161400.png",
     "Pasted image 20251005153923.png",
     "Pasted image 20251005152642.png",
