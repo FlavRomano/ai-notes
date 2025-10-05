@@ -4,39 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7a0244fb414717",
+        "id": "25451b2dbc2fc083",
         "type": "tabs",
         "children": [
           {
-            "id": "d4193d18e8ba511a",
+            "id": "c34997742ed5d01b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202510051223.md",
+                "file": "202510051502.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510051223"
+              "title": "202510051502"
             }
           },
           {
-            "id": "d9a775bea278c999",
+            "id": "ddb7bbca98e2202b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202510051240.md",
+                "file": "202510051532.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510051240"
+              "title": "202510051532"
+            }
+          },
+          {
+            "id": "9ea649409e11c298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202510051540.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510051540"
+            }
+          },
+          {
+            "id": "0b9682cfe7f25779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202510051553.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510051553"
+            }
+          },
+          {
+            "id": "1126f37f130e688e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202510051647.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510051647"
+            }
+          },
+          {
+            "id": "19a1488e6b288425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202510051652.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510051652"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,12 +256,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d9a775bea278c999",
+  "active": "0b9682cfe7f25779",
   "lastOpenFiles": [
+    "202510051647.md",
+    "202510051652.md",
+    "Pasted image 20251005170053.png",
+    "202510051553.md",
+    "Pasted image 20251005164722.png",
+    "202510051532.md",
+    "202510051540.md",
+    "202510051502.md",
+    "Pasted image 20251005161400.png",
+    "Pasted image 20251005153923.png",
+    "Pasted image 20251005152642.png",
+    "202510051223.md",
+    "202509302152.md",
+    "202509302141.md",
+    "202510051240.md",
     "Pasted image 20251005125605.png",
     "Pasted image 20251005125548.png",
-    "202510051223.md",
-    "202510051240.md",
     "202510012210.md",
     "202510051043.md",
     "202510051133.md",
@@ -222,23 +291,9 @@
     "202509281658.md",
     "202509281638.md",
     "202510021638.md",
-    "202510021605.md",
-    "202509282220.md",
-    "202509282205.md",
-    "202509282143.md",
-    "202509281650.md",
-    "202509261536.md",
     "Pasted image 20251001222605.png",
     "Pasted image 20251001222505.png",
-    "202510011925.md",
-    "Pasted image 20251001215924.png",
-    "202509261443.md",
-    "Pasted image 20250930231030.png",
-    "Pasted image 20250930223501.png",
-    "Pasted image 20250930220333.png",
     "Untitled.base",
-    "Pasted image 20250928222352.png",
-    "Pasted image 20250928222324.png",
     "Utils/template",
     "books/aima/aima.pdf",
     "books/aima",
