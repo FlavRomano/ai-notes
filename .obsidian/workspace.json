@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0f5c9f261b71bd9",
+            "id": "c0607d502107affb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202510141139.md",
+                "file": "202510171550.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510141139"
+              "title": "202510171550"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[reference:ML-6] tag:#permanent  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -185,11 +185,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c0f5c9f261b71bd9",
+  "active": "c0607d502107affb",
   "lastOpenFiles": [
-    "202510141119.md",
-    "202510141139.md",
+    "202510171545.md",
+    "202510171550.md",
+    "202510161617.md",
+    "202510171530.md",
+    "202510171406.md",
     "202510141104.md",
+    "202510141139.md",
+    "202510141119.md",
     "Untitled 1.md",
     "202510071150.md",
     "202510071149.md",
@@ -208,11 +213,6 @@
     "202509302231.md",
     "202509302227.md",
     "202509302152.md",
-    "202510061801.md",
-    "202510051240.md",
-    "202510051223.md",
-    "202510051219.md",
-    "202510051202.md",
     "Pasted image 20251005170053.png",
     "Pasted image 20251005164722.png",
     "Pasted image 20251005161400.png",
