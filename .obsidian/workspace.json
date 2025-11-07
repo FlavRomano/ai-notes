@@ -4,63 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6ca1626343f807",
+        "id": "f4ee3c79b453cb66",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd5e35b61012613",
+            "id": "26d58f89bd02fe2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202511041520.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202511041520"
-            }
-          },
-          {
-            "id": "20fd161bbfaf600e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202511041528.md",
+                "file": "202511071639.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202511041528"
+              "title": "202511071639"
             }
           },
           {
-            "id": "508b5626a24eb080",
+            "id": "afc359bea0ba2aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202511041714.md",
+                "file": "202511061759.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202511041714"
-            }
-          },
-          {
-            "id": "785c4608f347e4f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202511041752.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202511041752"
+              "title": "202511061759"
             }
           }
         ]
@@ -95,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vc-bou",
+                "query": "tag:dual",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -227,44 +199,44 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0dd5e35b61012613",
+  "active": "26d58f89bd02fe2a",
   "lastOpenFiles": [
+    "202511071735.md",
+    "202511071639.md",
+    "202511071730.md",
+    "202511061754.md",
+    "202511061759.md",
+    "202511071703.md",
+    "Pasted image 20251107172214.png",
+    "Pasted image 20251107171416.png",
+    "Pasted image 20251107171325.png",
+    "202511071552.md",
+    "202511061703.md",
+    "202511061723.md",
+    "202511061726.md",
+    "202511061553.md",
+    "202511061620.md",
+    "202511061712.md",
+    "Pasted image 20251107155133.png",
+    "202511061746.md",
+    "formulated as before.md",
+    "Pasted image 20251106170641.png",
+    "Pasted image 20251106170447.png",
+    "202511061636.md",
+    "202511061608.md",
+    "KKT conditions.md",
     "202511041752.md",
+    "202511061600.md",
+    "202511041520.md",
+    "Pasted image 20251106160533.png",
+    "Pasted image 20251106155509.png",
     "202509282126.md",
     "202511041528.md",
-    "202511041520.md",
     "202511041714.md",
     "202511041636.md",
     "202511041521.md",
-    "202511041637.md",
-    "202511041700.md",
-    "202511041548.md",
-    "202511041545.md",
     "Pasted image 20251104155207.png",
-    "202509261431.md",
     "Pasted image 20251104154707.png",
-    "support vector.md",
-    "Pasted image 20251104152909.png",
-    "202510311719.md",
-    "Pasted image 20251031175049.png",
-    "Pasted image 20251031173604.png",
-    "202510311509.md",
-    "202510311504.md",
-    "202510311524.md",
-    "202510311648.md",
-    "Pasted image 20251031170600.png",
-    "Pasted image 20251031170144.png",
-    "Pasted image 20251031163012.png",
-    "Pasted image 20251031162758.png",
-    "Pasted image 20251031154839.png",
-    "202510171406.md",
-    "202510251455.md",
-    "202510161617.md",
-    "202510141139.md",
-    "202510141119.md",
-    "202510141104.md",
-    "202510171550.md",
-    "202510171545.md",
     "Untitled.base",
     "Utils/template",
     "books/aima/aima.pdf",
