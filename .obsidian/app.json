@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "img",
+  "openBehavior": "file:home",
+  "alwaysUpdateLinks": true
 }

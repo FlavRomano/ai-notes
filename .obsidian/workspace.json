@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f0c4e2418d91954",
+        "id": "30cc3161dce32086",
         "type": "tabs",
         "children": [
           {
-            "id": "97439b9b3363e6a4",
+            "id": "20032c09c0e41445",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "indices/ml/ML 2-3.md",
-                "bFile": "indices/ml/ML 2-3.md",
-                "aRef": ""
+                "file": "home.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: ML 2-3"
+              "icon": "lucide-file",
+              "title": "home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#permanent [\"reference\":ML-6]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -128,7 +130,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -184,53 +186,129 @@
       "zk-prefixer:Create new unique note": false
     }
   },
+  "floating": {
+    "id": "bfaecd80a1f4866f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bdf6822309f7afae",
+        "type": "window",
+        "children": [
+          {
+            "id": "dc8752b0cb7474cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "30852a5d8244c5fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "indices/ml/ML-5.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ML-5"
+                }
+              },
+              {
+                "id": "ebb7421728ab7ed3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "indices/ml/ML-6.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ML-6"
+                },
+                "group": "21abd640d02fbcd1"
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a781223f7d7ff1de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef808b36145943a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "indices/ml/ML-6.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ML-6"
+                },
+                "group": "21abd640d02fbcd1"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1283,
+        "y": 37,
+        "width": 1270,
+        "height": 1396,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "27865e54eb3aba83",
   "lastOpenFiles": [
-    "202505171106.md",
-    "202505111504.md",
-    "202509231729.md",
+    "knowledge/202510051502.md",
+    "home.md",
+    "indices/ml/ML-6.md",
+    "indices/ml/ML-5.md",
+    "knowledge/202510061801.md",
+    "knowledge/202510051223.md",
+    "knowledge/202510051133.md",
+    "knowledge/202510051219.md",
+    "202602132218.md",
+    "knowledge/202510051202.md",
+    "knowledge/202510051043.md",
+    "knowledge/202510012210.md",
+    "knowledge/202510011925.md",
+    "knowledge/202510012211.md",
+    "knowledge/202510012206.md",
+    "knowledge/202510011946.md",
+    "knowledge/202510011954.md",
+    "knowledge/202510011923.md",
+    "knowledge/202509302240.md",
+    "knowledge/202509302231.md",
+    "knowledge/202509302227.md",
+    "knowledge/202509302152.md",
+    "knowledge/202509302141.md",
     "indices/ml/ML 4.md",
-    "202509282205.md",
-    "202509282220.md",
-    "202509282143.md",
-    "202509282126.md",
-    "202509281906.md",
-    "202509281858.md",
-    "202509281658.md",
-    "model complexity.md",
-    "202509281650.md",
-    "202509281638.md",
     "indices/ml/ML 2-3.md",
-    "202509281729.md",
-    "202602131815.md",
-    "202509281820.md",
-    "202509281739.md",
-    "202510171406.md",
-    "202509281716.md",
-    "202509281707.md",
-    "202509281702.md",
-    "202509222222.md",
-    "202509222144.md",
-    "202509211744.md",
+    "Untitled.md",
+    "img/wallpaper.png",
+    "img/Pasted image 20250523091306.png",
+    "knowledge",
+    "img",
     "indices/ml",
     "indices",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Pasted image 20251204190226.png",
-    "Pasted image 20251204185018.png",
-    "Pasted image 20251204184727.png",
-    "Pasted image 20251128114313.png",
-    "Pasted image 20251114172641.png",
-    "Pasted image 20251113174716.png",
-    "Pasted image 20251113174535.png",
-    "Pasted image 20251113174329.png",
-    "Pasted image 20251113174014.png",
-    "Pasted image 20251113172604.png",
+    "img/Pasted image 20251204190226.png",
+    "img/Pasted image 20251204185018.png",
+    "img/Pasted image 20251204184727.png",
+    "img/Pasted image 20251128114313.png",
+    "img/Pasted image 20251114172641.png",
+    "img/Pasted image 20251113174716.png",
+    "img/Pasted image 20251113174535.png",
+    "img/Pasted image 20251113174329.png",
     "Utils/template",
     "books/aima/aima.pdf",
-    "books/aima",
-    "books",
-    "Years/1st Year/1st Semester/AI fundamentals/Introduction/2. agents/02_agents.pdf"
+    "books/aima"
   ]
 }
