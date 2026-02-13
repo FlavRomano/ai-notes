@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "knowledge/202602132218.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "202602132218"
             }
           }
         ]
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -262,17 +260,17 @@
       }
     ]
   },
-  "active": "27865e54eb3aba83",
+  "active": "1098d78a1cca128d",
   "lastOpenFiles": [
-    "knowledge/202510051502.md",
     "home.md",
+    "knowledge/202510051502.md",
     "indices/ml/ML-6.md",
     "indices/ml/ML-5.md",
     "knowledge/202510061801.md",
     "knowledge/202510051223.md",
     "knowledge/202510051133.md",
     "knowledge/202510051219.md",
-    "202602132218.md",
+    "knowledge/202602132218.md",
     "knowledge/202510051202.md",
     "knowledge/202510051043.md",
     "knowledge/202510012210.md",
