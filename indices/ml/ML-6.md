@@ -22,4 +22,3 @@
 5.  **Design Choices & Extensions**
     *   Strategies for selecting metrics, $k$ values, and feature subsets.
     *   Extensions to other local models (Kernel smoothers, Case-based reasoning).
-    *   Bibliography and next lecture preview (Perceptron).

@@ -1,11 +1,11 @@
 1.  **Problem Formulation**
     *   Supervised learning definitions: Regression vs. Classification.
 	    * regarding [[202509302141|regression]]
+	    * regarding [[202509302227|classification]]
     *   Least Mean Squares (LMS) formulation.
 	    * regarding [[202509302152|LMS]]
 2.  **Linear Classification**
     *   Geometry of Hyperplanes and decision boundaries.
-	    * regarding [[202509302227|classification]]
 	    * regarding [[202509302231|decision boundary]]
 	    * regarding [[202510011923|scaling freedom property]]
     *   Linear Threshold Units (LTU) and the sign function.

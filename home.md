@@ -6,9 +6,11 @@
 > - [[ML-4]]
 > - [[ML-5]]
 > - [[ML-6]]
+> - [[ML-7]]
+> - [[ML-8]]
 
 > [!abstract]- Deep Learning
-> WIP
+> - [[GDL 2]]
 ---
 
 ## Books
