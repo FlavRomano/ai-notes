@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "05ae906604a7d2d3",
+            "id": "e5a8c5e69447f628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202602201914.md",
+                "file": "202602211112.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202602201914"
+              "title": "202602211112"
             }
           },
           {
@@ -56,14 +56,15 @@
               "type": "markdown",
               "state": {
                 "file": "knowledge/202602201842.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "202602201842"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,53 +228,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "floating": {
-    "id": "6898cb88fa5d7897",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e747eaa31662c844",
-        "type": "window",
-        "children": [
-          {
-            "id": "1afa18fcfb3ddc99",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d1fd9b5c41dd1bc1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "indices/dl/GDL 2.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "GDL 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
-        "y": 738,
-        "width": 1269,
-        "height": 695,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "a00766cbb5d18ecd",
+  "active": "e5a8c5e69447f628",
   "lastOpenFiles": [
-    "knowledge/202602201914.md",
-    "indices/dl/GDL 2.md",
     "202602201848.md",
+    "knowledge/202602211116.md",
+    "202602211112.md",
+    "indices/dl/GDL 2.md",
+    "knowledge/202602201914.md",
     "knowledge/202602201842.md",
-    "indices/dl/DL 2.md",
     "home.md",
+    "indices/dl/DL 2.md",
     "knowledge/202602201614.md",
     "knowledge/202511041520.md",
     "knowledge/202511041714.md",
@@ -293,8 +257,6 @@
     "knowledge/202511071639.md",
     "indices/ml/ML-8.md",
     "indices/dl",
-    "indices/ml/ML-9.md",
-    "indices/ml/ML-7.md",
     "Untitled.canvas",
     "img/wallpaper.png",
     "img/Pasted image 20250523091306.png",

@@ -8,7 +8,7 @@
     *   Random Variables (Discrete vs. Continuous).
     *   Joint and [[202602201848|Conditional probabilities]].
     *   Key Theorems: Chain Rule (Product Rule), Marginalization (Sum Rule), and Bayes Rule.
-    *   [[202602201914|Variable independence]] and Conditional Independence ($X \perp Y \mid Z$).
+    *   [[202602201914|Variable independence]] and [[202602211112|Conditional Independence]] ($X \perp Y \mid Z$).
     *   Expectation (Definitions and linear properties).
 
 3.  **Probability Distributions**
