@@ -10,6 +10,8 @@
 > - [[ML-8]]
 > - [[SVM]]
 > - [[ML-16]]
+> - [[ML-17]]
+> - [[ML-18]]
 
 > [!abstract]- Deep Learning
 > - [[GDL-2]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/ml/ML-17.md",
+                "file": "indices/ml/ML-18.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ML-17"
+              "title": "ML-18"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202602231853.md",
-                "mode": "source",
+                "file": "utils/prompts.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202602231853"
+              "title": "prompts"
             }
           },
           {
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,9 +214,16 @@
   },
   "active": "79a011c1b6bf97b4",
   "lastOpenFiles": [
-    "knowledge/202602231907.md",
-    "knowledge/202602231853.md",
+    "indices/ml/SVM.md",
+    "indices/ml/ML-8.md",
+    "indices/ml/ML-16.md",
+    "indices/ml/ML-18.md",
     "indices/ml/ML-17.md",
+    "utils/prompts.md",
+    "knowledge/202602231853.md",
+    "utils/Untitled",
+    "home.md",
+    "knowledge/202602231907.md",
     "knowledge/202511141726.md",
     "knowledge/202602231842.md",
     "knowledge/202602231818.md",
@@ -241,12 +247,6 @@
     "knowledge/202511281201.md",
     "knowledge/202602231601.md",
     "knowledge/202602231554.md",
-    "indices/ml/CNN.md",
-    "knowledge/202511251650.md",
-    "knowledge/202511191746.md",
-    "indices/ml/ML-16.md",
-    "knowledge/202511141759.md",
-    "knowledge/202511141752.md",
     "indices/dl",
     "Untitled.canvas",
     "img/wallpaper.png",
@@ -260,7 +260,6 @@
     "Untitled.base",
     "img/Pasted image 20251204190226.png",
     "img/Pasted image 20251204185018.png",
-    "utils/template",
-    "books/aima/aima.pdf"
+    "utils/template"
   ]
 }
