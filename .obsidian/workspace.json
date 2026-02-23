@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a00766cbb5d18ecd",
+            "id": "79a011c1b6bf97b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "indices/ml/ML-17.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "ML-17"
             }
           },
           {
-            "id": "e5a8c5e69447f628",
+            "id": "1ae933c8ec80633e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202602211112.md",
+                "file": "knowledge/202602231853.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202602211112"
+              "title": "202602231853"
             }
           },
           {
-            "id": "be8029cce95fbd25",
+            "id": "b83db620445d39e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202602201848.md",
+                "file": "knowledge/202602231907.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202602201848"
-            }
-          },
-          {
-            "id": "ec3c68128cae853e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202602201842.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202602201842"
+              "title": "202602231907"
             }
           }
         ]
@@ -95,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ensemble-learning  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -116,12 +102,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -227,34 +213,40 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a00766cbb5d18ecd",
+  "active": "79a011c1b6bf97b4",
   "lastOpenFiles": [
-    "202602211112.md",
-    "202602201848.md",
-    "knowledge/202602211116.md",
-    "indices/dl/GDL 2.md",
-    "knowledge/202602201914.md",
-    "knowledge/202602201842.md",
-    "home.md",
-    "indices/dl/DL 2.md",
-    "knowledge/202602201614.md",
-    "knowledge/202511041520.md",
-    "knowledge/202511041714.md",
-    "knowledge/202511041752.md",
-    "knowledge/202511041636.md",
-    "knowledge/202511061726.md",
-    "knowledge/202511061723.md",
-    "knowledge/202511061712.md",
-    "knowledge/202511061608.md",
-    "knowledge/202511061600.md",
-    "knowledge/202511061553.md",
-    "knowledge/202511041548.md",
-    "knowledge/202511041545.md",
-    "knowledge/202511041637.md",
-    "knowledge/202511041521.md",
-    "knowledge/202511041528.md",
-    "knowledge/202511071639.md",
-    "indices/ml/ML-8.md",
+    "knowledge/202602231907.md",
+    "knowledge/202602231853.md",
+    "indices/ml/ML-17.md",
+    "knowledge/202511141726.md",
+    "knowledge/202602231842.md",
+    "knowledge/202602231818.md",
+    "knowledge/202602231814.md",
+    "img/Pasted image 20260223181618.png",
+    "knowledge/202602231801.md",
+    "knowledge/202602231807.md",
+    "img/Pasted image 20260223180849.png",
+    "knowledge/202602231650.md",
+    "knowledge/202602231705.md",
+    "knowledge/202602231641.md",
+    "img/Pasted image 20260223175843.png",
+    "knowledge/202602231744.md",
+    "img/Pasted image 20260223175306.png",
+    "img/Pasted image 20260223170903.png",
+    "img/Pasted image 20260223165124.png",
+    "knowledge/202602231607.md",
+    "knowledge/202602231550.md",
+    "knowledge/202602231615.md",
+    "knowledge/202510051219.md",
+    "knowledge/202511281201.md",
+    "knowledge/202602231601.md",
+    "knowledge/202602231554.md",
+    "indices/ml/CNN.md",
+    "knowledge/202511251650.md",
+    "knowledge/202511191746.md",
+    "indices/ml/ML-16.md",
+    "knowledge/202511141759.md",
+    "knowledge/202511141752.md",
     "indices/dl",
     "Untitled.canvas",
     "img/wallpaper.png",
@@ -268,12 +260,6 @@
     "Untitled.base",
     "img/Pasted image 20251204190226.png",
     "img/Pasted image 20251204185018.png",
-    "img/Pasted image 20251204184727.png",
-    "img/Pasted image 20251128114313.png",
-    "img/Pasted image 20251114172641.png",
-    "img/Pasted image 20251113174716.png",
-    "img/Pasted image 20251113174535.png",
-    "img/Pasted image 20251113174329.png",
     "utils/template",
     "books/aima/aima.pdf"
   ]

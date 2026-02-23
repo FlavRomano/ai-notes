@@ -8,9 +8,11 @@
 > - [[ML-6]]
 > - [[ML-7]]
 > - [[ML-8]]
+> - [[SVM]]
+> - [[ML-16]]
 
 > [!abstract]- Deep Learning
-> - [[GDL 2]]
+> - [[GDL-2]]
 ---
 
 ## Books
