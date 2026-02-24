@@ -1,0 +1,13 @@
+- bayesian networks intro
+	- plate notation
+		- gaussian mixture (different gaussian distribution)
+	- local markov prop.
+		- conn. graph to distribution
+		- we say "a graph markov to a distribution"
+			- holds the local markov property
+		- CR + local markov prop => parent decomposition
+		- analogy with conditionally indipendence
+			- contrapposition
+	- 3 substructures
+		- markov equivalence class
+		- by using the markov property we get the same independencies

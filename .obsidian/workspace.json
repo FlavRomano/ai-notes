@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa533f09df97657",
+        "id": "996c88561f9a519a",
         "type": "tabs",
         "children": [
           {
-            "id": "79a011c1b6bf97b4",
+            "id": "c947742ffe346677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/ml/ML-18.md",
+                "file": "knowledge/202602242146.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ML-18"
+              "title": "202602242146"
             }
           },
           {
-            "id": "1ae933c8ec80633e",
+            "id": "24cad45bc26c40dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utils/prompts.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "prompts"
-            }
-          },
-          {
-            "id": "b83db620445d39e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202602231907.md",
+                "file": "knowledge/202602242132.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202602231907"
+              "title": "202602242132"
+            }
+          },
+          {
+            "id": "38bb03c743a04ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202602242146.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202602242146"
             }
           }
         ]
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ensemble-learning  ",
+                "query": "tag:#svm tag:#kernel ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202511141731.md",
+                "file": "knowledge/202602242146.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202511141731"
+              "title": "Backlinks for 202602242146"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202509302240.md",
+                "file": "knowledge/202602242146.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202509302240"
+              "title": "Outline of 202602242146"
             }
           },
           {
@@ -212,18 +212,29 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "79a011c1b6bf97b4",
+  "active": "27865e54eb3aba83",
   "lastOpenFiles": [
+    "indices/ml/ML-18.md",
+    "knowledge/202602242146.md",
+    "knowledge/202602242132.md",
+    "img/Pasted image 20260224215852.png",
+    "knowledge/202602242126.md",
+    "knowledge/202602242139.md",
+    "knowledge/202511061703.md",
+    "knowledge/202511061723.md",
+    "knowledge/202511061726.md",
+    "img/Pasted image 20260224212930.png",
+    "knowledge/202602242123.md",
+    "knowledge/202602231907.md",
+    "utils/prompts.md",
+    "indices/dl/GDL-3.md",
+    "home.md",
     "indices/ml/SVM.md",
     "indices/ml/ML-8.md",
     "indices/ml/ML-16.md",
-    "indices/ml/ML-18.md",
     "indices/ml/ML-17.md",
-    "utils/prompts.md",
     "knowledge/202602231853.md",
     "utils/Untitled",
-    "home.md",
-    "knowledge/202602231907.md",
     "knowledge/202511141726.md",
     "knowledge/202602231842.md",
     "knowledge/202602231818.md",
@@ -233,20 +244,10 @@
     "knowledge/202602231807.md",
     "img/Pasted image 20260223180849.png",
     "knowledge/202602231650.md",
-    "knowledge/202602231705.md",
-    "knowledge/202602231641.md",
     "img/Pasted image 20260223175843.png",
-    "knowledge/202602231744.md",
     "img/Pasted image 20260223175306.png",
     "img/Pasted image 20260223170903.png",
     "img/Pasted image 20260223165124.png",
-    "knowledge/202602231607.md",
-    "knowledge/202602231550.md",
-    "knowledge/202602231615.md",
-    "knowledge/202510051219.md",
-    "knowledge/202511281201.md",
-    "knowledge/202602231601.md",
-    "knowledge/202602231554.md",
     "indices/dl",
     "Untitled.canvas",
     "img/wallpaper.png",
@@ -258,8 +259,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "img/Pasted image 20251204190226.png",
-    "img/Pasted image 20251204185018.png",
     "utils/template"
   ]
 }
