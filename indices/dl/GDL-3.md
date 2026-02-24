@@ -1,13 +1,29 @@
-- bayesian networks intro
-	- plate notation
-		- gaussian mixture (different gaussian distribution)
-	- local markov prop.
-		- conn. graph to distribution
-		- we say "a graph markov to a distribution"
-			- holds the local markov property
-		- CR + local markov prop => parent decomposition
-		- analogy with conditionally indipendence
-			- contrapposition
-	- 3 substructures
-		- markov equivalence class
-		- by using the markov property we get the same independencies
+1.  **Representing Joint Distributions**
+    *   Goals of probabilistic modeling (Sampling, Inference, Likelihood)
+    *   The Chain Rule and directed graphs
+    *   Parameter complexity ($k^N - 1$) vs. reduction via independence
+
+2.  **Independence Concepts**
+    *   Marginal Independence definition
+    *   Conditional Independence definition
+
+3.  **Bayesian Networks (BNs)**
+    *   Definition: Directed Acyclic Graphs (DAGs)
+    *   Nodes (variables) and Edges (conditional independence)
+    *   Discrete BNs and Conditional Probability Tables (CPTs)
+    *   Statistical dependence vs. Causality
+
+4.  **Compact Representation**
+    *   Plate Notation for replicated dependencies
+    *   Distinction between observed (shaded) and latent (empty) variables
+
+5.  **Properties and Operations**
+    *   The Local Markov Property
+    *   Joint Probability Factorization (Topological ordering)
+    *   Ancestral Sampling (Generative process)
+
+6.  **Fundamental BN Structures & Flow**
+    *   Tail-to-Tail (Common Cause)
+    *   Head-to-Tail (Causal Chain)
+    *   Head-to-Head (Collider/Common Effect)
+    *   Blocking paths vs. Unlocking paths based on observations

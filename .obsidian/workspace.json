@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/ml/ML-19.md",
-                "mode": "source",
+                "file": "indices/dl/GDL-3.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ML-19"
+              "title": "GDL-3"
             }
           },
           {
@@ -102,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,11 +214,13 @@
   },
   "active": "fc7f4f8301659203",
   "lastOpenFiles": [
+    "indices/dl/GDL-3 DRAFT.md",
+    "indices/dl/GDL-3.md",
+    "home.md",
     "knowledge/202509211651.md",
     "indices/ml/ML-19.md",
     "knowledge/202602242132.md",
     "knowledge/202602242146.md",
-    "home.md",
     "utils/prompts.md",
     "indices/ml/ML-18.md",
     "img/Pasted image 20260224215852.png",
@@ -231,7 +232,6 @@
     "img/Pasted image 20260224212930.png",
     "knowledge/202602242123.md",
     "knowledge/202602231907.md",
-    "indices/dl/GDL-3.md",
     "indices/ml/SVM.md",
     "indices/ml/ML-8.md",
     "indices/ml/ML-16.md",
@@ -244,7 +244,6 @@
     "knowledge/202602231814.md",
     "img/Pasted image 20260223181618.png",
     "knowledge/202602231801.md",
-    "knowledge/202602231807.md",
     "img/Pasted image 20260223180849.png",
     "img/Pasted image 20260223175843.png",
     "img/Pasted image 20260223175306.png",
