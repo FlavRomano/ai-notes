@@ -12,6 +12,7 @@
 > - [[ML-16]]
 > - [[ML-17]]
 > - [[ML-18]]
+> - [[ML-19]]
 
 > [!abstract]- Deep Learning
 > - [[GDL-2]]
