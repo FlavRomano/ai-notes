@@ -1,0 +1,28 @@
+- d-separation
+	- syn. blocked of all possible path
+	- 2 var. are d-separated
+	- if all path are blocked  $$Y_{1} \text{dsep}_{G} Y_{2} \mid Z$$ where Z is a set of var that block the path
+- global markov prop.
+	- in general, for any sets of var $A,B,C$
+	- if $A$ and $B$ are separated from $C$  $$A \text{dsep}_{G} B \mid C \implies A \text{indip} B \mid C$$
+	- connected with local markov property
+		- descendant relationship
+- Markov blanket
+	- Z dseparated from Y given the markov blanket of Y
+	- smallest set of observation that I need to perform inference on Y
+- Faithfullness
+	- graph faithfull to a distribution
+	- tipically more independence in the graph than to a distribution
+- Violation of faithfullness
+	- when contribution of variables get cancelled out
+		- connects to marginally independent of $Y_1$ to $Y_4$
+- Undirected model (markov random fields)
+	- variables that influence each other
+	- no more asymmetric dependencies
+	- if a graph can't be d-separated then needs an undirected graph
+- Maximal clique
+	- cannot include any further node from the graph without ceasing the clique definition
+- Potential Function
+	- for each maximal clique variable we compute the potential function
+- From directed to undirected model
+	- collider example (moralization)

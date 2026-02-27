@@ -16,6 +16,8 @@
 
 > [!abstract]- Deep Learning
 > - [[GDL-2]]
+> - [[GDL-3]]
+> - [[GDL-4]]
 ---
 
 ## Books
