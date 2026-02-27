@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/ml/ML-21.md",
+                "file": "home.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ML-21"
+              "title": "home"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "randomized",
+                "query": "rbf",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -187,14 +186,16 @@
   },
   "active": "d20cde981aefeabd",
   "lastOpenFiles": [
-    "utils/prompts.md",
+    "indices/ml/questions.md",
+    "home.md",
+    "indices/ml/ML-18.md",
     "indices/ml/ML-21.md",
+    "utils/prompts.md",
     "indices/ml/ML-20.md",
     "knowledge/202602271433.md",
     "knowledge/202602271442.md",
     "knowledge/202602271447.md",
     "img/Pasted image 20260227144652.png",
-    "indices/ml/ML-18.md",
     "knowledge/202602242123.md",
     "img/Pasted image 20260227143622.png",
     "knowledge/202602271421.md",
@@ -221,8 +222,6 @@
     "indices/ml/ML-19.md",
     "knowledge/202602271106.md",
     "knowledge/202602271105.md",
-    "knowledge/202602271020.md",
-    "knowledge/202602271028.md",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",

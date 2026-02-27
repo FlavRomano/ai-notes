@@ -13,6 +13,9 @@
 > - [[ML-17]]
 > - [[ML-18]]
 > - [[ML-19]]
+> - [[ML-20]]
+> - [[ML-21]]
+> - [[questions]]
 
 > [!abstract]- Deep Learning
 > - [[GDL-2]]
