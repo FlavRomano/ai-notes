@@ -1,28 +1,25 @@
-1.  **Introduction and Context**
-    *   Position of CNNs in the Machine Learning course structure (Deep Learning).
-    *   Applications of Neural Networks (Visual processing, robotics, pattern recognition).
-    *   Case Study: Handwritten character recognition (MNIST benchmark).
-
-2.  **Motivation for CNNs**
+1.  **Motivation for CNNs**
     *   Limitations of standard fully connected networks for images.
+	    * too many parameters
+	    * lack of invariance
     *   Exploiting architecture design for prior information: Local connections and Weight-sharing.
 
-3.  **Core Components: Convolution**
+2.  **Core Components: Convolution**
     *   The mathematical concept of Convolution (sliding weighted average).
     *   1D Convolution (Time-Delay NN) and 2D Convolution details.
     *   Key parameters: Kernels/Filters, Local Receptive Fields, Padding, and Stride.
     *   Feature maps and translation invariance.
 
-4.  **Core Components: Pooling**
+3.  **Core Components: Pooling**
     *   Subsampling methods: Max Pooling and Mean Pooling.
     *   Role of pooling: Dimensionality reduction and invariance to small distortions.
 
-5.  **CNN Architecture**
+4.  **CNN Architecture**
     *   Structure: Stacking Convolutional, Pooling, and Fully Connected layers.
     *   Hierarchical feature abstraction (low-level to high-level features).
     *   Summary of advantages: Parameter reduction (regularization) and spatial processing.
 
-6.  **History and Evolution**
+5.  **History and Evolution**
     *   **LeNet:** Architectures and performance on MNIST.
     *   **Deep MLP:** comparison using GPU acceleration.
     *   **AlexNet & ImageNet:** The 2012 breakthrough, ReLU, and Dropout regularization.

@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "indices/ml/ML-17.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ML-17"
+            }
+          },
+          {
+            "id": "06f94529944d9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202602231907.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202602231907"
+            }
+          },
+          {
+            "id": "fe967d9b6c553371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202602231807.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "202602231807"
+            }
+          },
+          {
+            "id": "3049ab0511c346c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202602231818.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202602231818"
             }
           }
         ]
@@ -53,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rbf",
+                "query": "cnn",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -186,42 +228,42 @@
   },
   "active": "d20cde981aefeabd",
   "lastOpenFiles": [
-    "indices/ml/questions.md",
-    "home.md",
+    "knowledge/202602231853.md",
+    "knowledge/202602231907.md",
+    "indices/ml/ML-17.md",
+    "knowledge/202602231842.md",
+    "knowledge/202602231807.md",
+    "knowledge/202602231814.md",
+    "knowledge/202602231818.md",
+    "knowledge/202602231801.md",
+    "knowledge/202602231550.md",
+    "knowledge/202602231705.md",
+    "knowledge/202602231650.md",
+    "knowledge/202602231744.md",
+    "knowledge/202602231641.md",
+    "knowledge/202602231607.md",
+    "knowledge/202602231615.md",
     "indices/ml/ML-18.md",
     "indices/ml/ML-21.md",
-    "utils/prompts.md",
     "indices/ml/ML-20.md",
-    "knowledge/202602271433.md",
-    "knowledge/202602271442.md",
-    "knowledge/202602271447.md",
+    "indices/ml/ML-19.md",
+    "indices/ml/ML-4.md",
+    "indices/ml/ML-6.md",
+    "indices/ml/ML-7.md",
+    "indices/ml/ML-8.md",
+    "indices/ml/ML-16.md",
+    "indices/ml/CNN.md",
+    "indices/ml/ML 2-3.md",
     "img/Pasted image 20260227144652.png",
-    "knowledge/202602242123.md",
     "img/Pasted image 20260227143622.png",
-    "knowledge/202602271421.md",
-    "knowledge/202602271425.md",
     "img/Pasted image 20260227142838.png",
     "img/Pasted image 20260227142322.png",
-    "knowledge/202602271411.md",
-    "knowledge/202602271238.md",
     "img/Pasted image 20260227135309.png",
-    "knowledge/202602271233.md",
-    "knowledge/202602271237.md",
-    "knowledge/202602271230.md",
-    "knowledge/202602271218.md",
-    "knowledge/202602271145.md",
     "img/Pasted image 20260227122234.png",
-    "knowledge/202602271210.md",
     "img/Pasted image 20260227121313.png",
     "img/Pasted image 20260227115118.png",
-    "knowledge/202602271135.md",
     "img/Pasted image 20260227113628.png",
-    "knowledge/202602271129.md",
     "img/Pasted image 20260227113137.png",
-    "knowledge/202505111525.md",
-    "indices/ml/ML-19.md",
-    "knowledge/202602271106.md",
-    "knowledge/202602271105.md",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
