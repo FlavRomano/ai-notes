@@ -32,7 +32,7 @@
 	    * regarding [[202510051219|curse of dimensionality]]
 6.  **Regularization (Complexity Control)**
     *   **Tikhonov Regularization (Ridge Regression)**: Adding a penalty term to the loss function.
-	    * regarding [[202510051223|tikhonov]]
+	    * regarding [[202510051240|tikhonov]]
 	    * regarding [[202510051223|ridge regression]]
     *   Weight decay ($L_2$ norm).
 	    * regarding [[202510061801|weight decay]]

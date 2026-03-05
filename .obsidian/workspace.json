@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "852c5a416ba5de69",
+        "id": "dc2c881dd642c573",
         "type": "tabs",
         "children": [
           {
-            "id": "d20cde981aefeabd",
+            "id": "c999599cd61c83ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/ml/ML-17.md",
+                "file": "indices/dl/GDL-8 draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ML-17"
-            }
-          },
-          {
-            "id": "06f94529944d9fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202602231907.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202602231907"
-            }
-          },
-          {
-            "id": "fe967d9b6c553371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202602231807.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202602231807"
-            }
-          },
-          {
-            "id": "3049ab0511c346c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202602231818.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202602231818"
+              "title": "GDL-8 draft"
             }
           }
         ]
@@ -95,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cnn",
+                "query": "tag:#logistic-function  ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -116,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -226,34 +186,36 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d20cde981aefeabd",
+  "active": "c999599cd61c83ac",
   "lastOpenFiles": [
-    "knowledge/202602231853.md",
-    "knowledge/202602231907.md",
+    "knowledge/202511061636.md",
+    "indices/dl/GDL-8 draft.md",
+    "knowledge/202510141119.md",
+    "indices/ml/ML-5.md",
+    "indices/ml/ML-7.md",
+    "indices/ml/ML-16.md",
     "indices/ml/ML-17.md",
-    "knowledge/202602231842.md",
-    "knowledge/202602231807.md",
-    "knowledge/202602231814.md",
-    "knowledge/202602231818.md",
-    "knowledge/202602231801.md",
-    "knowledge/202602231550.md",
-    "knowledge/202602231705.md",
-    "knowledge/202602231650.md",
-    "knowledge/202602231744.md",
-    "knowledge/202602231641.md",
-    "knowledge/202602231607.md",
-    "knowledge/202602231615.md",
-    "indices/ml/ML-18.md",
-    "indices/ml/ML-21.md",
     "indices/ml/ML-20.md",
     "indices/ml/ML-19.md",
-    "indices/ml/ML-4.md",
-    "indices/ml/ML-6.md",
-    "indices/ml/ML-7.md",
+    "indices/ml/ML-21.md",
+    "indices/ml/ML-18.md",
     "indices/ml/ML-8.md",
-    "indices/ml/ML-16.md",
-    "indices/ml/CNN.md",
+    "indices/ml/ML-4.md",
     "indices/ml/ML 2-3.md",
+    "knowledge/202511071639.md",
+    "knowledge/202511071730.md",
+    "knowledge/202511071703.md",
+    "knowledge/202511061712.md",
+    "knowledge/202511061723.md",
+    "knowledge/202511061759.md",
+    "knowledge/202511061754.md",
+    "knowledge/202511061726.md",
+    "knowledge/202511071735.md",
+    "knowledge/202511061620.md",
+    "knowledge/202511061703.md",
+    "knowledge/202511061746.md",
+    "img/Pasted image 20260303190411.png",
+    "img/Pasted image 20260303190306.png",
     "img/Pasted image 20260227144652.png",
     "img/Pasted image 20260227143622.png",
     "img/Pasted image 20260227142838.png",
@@ -262,8 +224,6 @@
     "img/Pasted image 20260227122234.png",
     "img/Pasted image 20260227121313.png",
     "img/Pasted image 20260227115118.png",
-    "img/Pasted image 20260227113628.png",
-    "img/Pasted image 20260227113137.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
