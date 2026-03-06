@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-8 draft.md",
+                "file": "indices/dl/GDL-2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-8 draft"
+              "title": "GDL-2"
+            }
+          },
+          {
+            "id": "01f0b4cc80efe807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603061825.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603061825"
+            }
+          },
+          {
+            "id": "6022bacdd5628392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603061845.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603061845"
             }
           }
         ]
@@ -74,13 +102,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -188,8 +214,26 @@
   },
   "active": "c999599cd61c83ac",
   "lastOpenFiles": [
-    "knowledge/202511061636.md",
+    "knowledge/202603061845.md",
+    "indices/dl/GDL-2.md",
+    "knowledge/202603061825.md",
+    "knowledge/202603061658.md",
+    "knowledge/202603061800.md",
+    "knowledge/202603061701.md",
+    "knowledge/202603061733.md",
+    "knowledge/202603061740.md",
+    "knowledge/202602201848.md",
+    "img/Pasted image 20260306174414.png",
+    "knowledge/202602201842.md",
+    "indices/dl/GDL-3.md",
+    "indices/dl/GDL-6.md",
+    "indices/dl/GDL-7.md",
+    "indices/dl/GDL-8.md",
     "indices/dl/GDL-8 draft.md",
+    "indices/dl/GDL-5.md",
+    "utils/prompts.md",
+    "home.md",
+    "knowledge/202511061636.md",
     "knowledge/202510141119.md",
     "indices/ml/ML-5.md",
     "indices/ml/ML-7.md",
@@ -197,23 +241,6 @@
     "indices/ml/ML-17.md",
     "indices/ml/ML-20.md",
     "indices/ml/ML-19.md",
-    "indices/ml/ML-21.md",
-    "indices/ml/ML-18.md",
-    "indices/ml/ML-8.md",
-    "indices/ml/ML-4.md",
-    "indices/ml/ML 2-3.md",
-    "knowledge/202511071639.md",
-    "knowledge/202511071730.md",
-    "knowledge/202511071703.md",
-    "knowledge/202511061712.md",
-    "knowledge/202511061723.md",
-    "knowledge/202511061759.md",
-    "knowledge/202511061754.md",
-    "knowledge/202511061726.md",
-    "knowledge/202511071735.md",
-    "knowledge/202511061620.md",
-    "knowledge/202511061703.md",
-    "knowledge/202511061746.md",
     "img/Pasted image 20260303190411.png",
     "img/Pasted image 20260303190306.png",
     "img/Pasted image 20260227144652.png",
@@ -223,7 +250,6 @@
     "img/Pasted image 20260227135309.png",
     "img/Pasted image 20260227122234.png",
     "img/Pasted image 20260227121313.png",
-    "img/Pasted image 20260227115118.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",

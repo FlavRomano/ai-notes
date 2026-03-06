@@ -4,10 +4,15 @@
     *   Graph types: Directed (Causal), Undirected (Soft constraints), and Dynamic.
 
 2.  **Probability Theory Refresher**
-	- [[202602201842|Marginal definition and marginalisation]]
     *   Random Variables (Discrete vs. Continuous).
-    *   Joint and [[202602201848|Conditional probabilities]].
+    *   Joint and Conditional probabilities.
+	    * [[202603061740|joint distribution]]
+	    * [[202602201848|Conditional probabilities]].
     *   Key Theorems: Chain Rule (Product Rule), Marginalization (Sum Rule), and Bayes Rule.
+    	- [[202602201842|Marginal definition and marginalization]]
+	    * [[202603061733|product rule]]
+	    * [[202603061701|bayes rule]]
+	    * [[|marginal likelihood]]
     *   [[202602201914|Variable independence]] and [[202602211112|Conditional Independence]] ($X \perp Y \mid Z$).
     *   Expectation (Definitions and linear properties).
 
@@ -17,10 +22,14 @@
     *   **Conjugate Priors**: Matching priors with likelihoods to ensure closed-form posteriors.
 
 4.  **Inference and Learning**
-    *   Framing "Learning" as a specific type of Inference problem.
+	- We want to predict a variable $X$ after seeing $d$ data and considering the hypothesis space $H$
     *   **Bayesian Inference**: Weighing all hypotheses by probability (Optimal but computationally expensive).
+	    * [[202603061658|bayesian prediction]]
     *   **Maximum A Posteriori (MAP)**: Selecting the single most likely hypothesis given the data.
+	    * [[202603061825|MAP]]
     *   **Maximum Likelihood (ML)**: Selecting the hypothesis that maximizes data probability (assuming uniform priors).
+	    * [[202603061845|ML]]
+	* Confrontation
 
 5.  **Case Study: The Candy Box Problem**
     *   Applying Bayesian updating to sequential observations.
