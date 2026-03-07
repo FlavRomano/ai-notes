@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202603071531.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202603071531"
-            }
-          },
-          {
-            "id": "fb631a3f48abc9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202603071530.md",
+                "file": "indices/dl/GDL-2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603071530"
+              "title": "GDL-2"
+            }
+          },
+          {
+            "id": "691d6c2a287318e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603071611.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603071611"
             }
           }
         ]
@@ -200,9 +200,11 @@
   },
   "active": "c999599cd61c83ac",
   "lastOpenFiles": [
-    "knowledge/202603071530.md",
+    "knowledge/202603071611.md",
     "indices/dl/GDL-2.md",
+    "knowledge/202603071530.md",
     "knowledge/202603071531.md",
+    "img/Pasted image 20260307161053.png",
     "knowledge/202603071515.md",
     "img/Pasted image 20260307155207.png",
     "img/Pasted image 20260307154133.png",
@@ -234,7 +236,6 @@
     "indices/dl/GDL-6.md",
     "img/Pasted image 20260303190411.png",
     "img/Pasted image 20260303190306.png",
-    "img/Pasted image 20260227144652.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
