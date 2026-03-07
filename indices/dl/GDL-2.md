@@ -22,8 +22,17 @@
 
 3.  **Probability Distributions**
     *   Discrete domains: Bernoulli and Categorical distributions.
+	    * [[202603071118|bernoulli]]
+	    * [[202603071127|categorical]]
+	    * [[202603071151|binomial]]
+	    * [[202603071205|multinomial]]
     *   Continuous domains: Gaussian (Univariate/Multivariate), Beta, and Dirichlet distributions.
+	    * [[202603071530|univariate gaussian]]
+	    * [[202603071531|multivariate gaussian]]
+	    * [[202603071517|beta]]
+	    * [[202603071515|dirichlet]]
     *   **Conjugate Priors**: Matching priors with likelihoods to ensure closed-form posteriors.
+	    * [[conjugate table]]
 
 4.  **Inference and Learning**
 	- We want to predict a variable $X$ after seeing $d$ data and considering the hypothesis space $H$
