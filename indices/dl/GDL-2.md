@@ -17,7 +17,8 @@
 	    * [[202602201914|Variable independence]] 
 	    * [[202602211112|Conditional Independence]]
     *   Expectation (Definitions and linear properties).
-	    * [[Expectation]]
+	    * [[202603071042|expectation]]
+	    * [[202603071052|expectation properties]]
 
 3.  **Probability Distributions**
     *   Discrete domains: Bernoulli and Categorical distributions.

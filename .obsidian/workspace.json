@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
-                "mode": "preview",
+                "file": "indices/dl/GDL-2.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "GDL-2"
             }
           },
           {
@@ -28,15 +28,29 @@
               "type": "markdown",
               "state": {
                 "file": "knowledge/202603071042.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "202603071042"
             }
+          },
+          {
+            "id": "04fbe22c599d113a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603071052.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603071052"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,17 +213,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b76aab7eea86836b",
+  "active": "04fbe22c599d113a",
   "lastOpenFiles": [
-    "home.md",
     "indices/dl/GDL-2.md",
+    "knowledge/202603071042.md",
+    "knowledge/202603071052.md",
+    "home.md",
     "knowledge/202602211112.md",
     "knowledge/202602201914.md",
     "knowledge/202603061800.md",
     "knowledge/202603061701.md",
     "knowledge/202603061733.md",
     "knowledge/202602201842.md",
-    "knowledge/202603071042.md",
     "knowledge/202603061845.md",
     "knowledge/202603061825.md",
     "knowledge/202603061658.md",
@@ -227,7 +242,6 @@
     "knowledge/202510141119.md",
     "indices/ml/ML-5.md",
     "indices/ml/ML-7.md",
-    "indices/ml/ML-16.md",
     "img/Pasted image 20260303190411.png",
     "img/Pasted image 20260303190306.png",
     "img/Pasted image 20260227144652.png",
