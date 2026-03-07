@@ -12,9 +12,12 @@
     	- [[202602201842|Marginal definition and marginalization]]
 	    * [[202603061733|product rule]]
 	    * [[202603061701|bayes rule]]
-	    * [[|marginal likelihood]]
-    *   [[202602201914|Variable independence]] and [[202602211112|Conditional Independence]] ($X \perp Y \mid Z$).
+	    * [[202603061800|marginal likelihood]]
+    *   Variable independence and Conditional Independence ($X \perp Y \mid Z$).
+	    * [[202602201914|Variable independence]] 
+	    * [[202602211112|Conditional Independence]]
     *   Expectation (Definitions and linear properties).
+	    * [[Expectation]]
 
 3.  **Probability Distributions**
     *   Discrete domains: Bernoulli and Categorical distributions.

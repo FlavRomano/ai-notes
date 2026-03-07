@@ -13,43 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-2.md",
-                "mode": "source",
+                "file": "home.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-2"
+              "title": "home"
             }
           },
           {
-            "id": "01f0b4cc80efe807",
+            "id": "b76aab7eea86836b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202603061825.md",
+                "file": "knowledge/202603071042.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603061825"
-            }
-          },
-          {
-            "id": "6022bacdd5628392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202603061845.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202603061845"
+              "title": "202603071042"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logistic-function  ",
+                "query": "tag:#marginal-likelihood",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -212,35 +199,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c999599cd61c83ac",
+  "active": "b76aab7eea86836b",
   "lastOpenFiles": [
-    "knowledge/202603061845.md",
+    "home.md",
     "indices/dl/GDL-2.md",
-    "knowledge/202603061825.md",
-    "knowledge/202603061658.md",
+    "knowledge/202602211112.md",
+    "knowledge/202602201914.md",
     "knowledge/202603061800.md",
     "knowledge/202603061701.md",
     "knowledge/202603061733.md",
+    "knowledge/202602201842.md",
+    "knowledge/202603071042.md",
+    "knowledge/202603061845.md",
+    "knowledge/202603061825.md",
+    "knowledge/202603061658.md",
+    "indices/dl/GDL-3.md",
     "knowledge/202603061740.md",
     "knowledge/202602201848.md",
     "img/Pasted image 20260306174414.png",
-    "knowledge/202602201842.md",
-    "indices/dl/GDL-3.md",
     "indices/dl/GDL-6.md",
     "indices/dl/GDL-7.md",
     "indices/dl/GDL-8.md",
     "indices/dl/GDL-8 draft.md",
     "indices/dl/GDL-5.md",
     "utils/prompts.md",
-    "home.md",
     "knowledge/202511061636.md",
     "knowledge/202510141119.md",
     "indices/ml/ML-5.md",
     "indices/ml/ML-7.md",
     "indices/ml/ML-16.md",
-    "indices/ml/ML-17.md",
-    "indices/ml/ML-20.md",
-    "indices/ml/ML-19.md",
     "img/Pasted image 20260303190411.png",
     "img/Pasted image 20260303190306.png",
     "img/Pasted image 20260227144652.png",
