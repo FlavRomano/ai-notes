@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "indices/dl/GDL-3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -22,44 +22,33 @@
             }
           },
           {
-            "id": "416c6802a01c2e6e",
+            "id": "4de1eb5e63f63360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202603071742.md",
+                "file": "knowledge/202603071838.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603071742"
+              "title": "202603071838"
             }
           },
           {
-            "id": "62623828ec185609",
+            "id": "34c2dc72f17e9b6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-07 17.48.59.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-03-07 18.43.56.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-07 17.48.59.excalidraw"
-            }
-          },
-          {
-            "id": "273e57e0bff37084",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-07 17.49.57.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-07 17.49.57.excalidraw"
+              "title": "Drawing 2026-03-07 18.43.56.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,13 +223,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "27865e54eb3aba83",
+  "active": "4de1eb5e63f63360",
   "lastOpenFiles": [
+    "indices/dl/GDL-3.md",
+    "Excalidraw/Drawing 2026-03-07 18.43.56.excalidraw.md",
+    "knowledge/202603071838.md",
+    "Excalidraw/Drawing 2026-03-07 18.43.22.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 17.43.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 18.39.54.excalidraw.md",
     "knowledge/202603071742.md",
+    "img/Pasted image 20260307183915.png",
     "Excalidraw/Drawing 2026-03-07 17.49.57.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 17.48.59.excalidraw.md",
-    "indices/dl/GDL-3.md",
-    "Excalidraw/Drawing 2026-03-07 17.43.23.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 17.31.17.excalidraw.md",
     "knowledge/202603071730.md",
     "Excalidraw/Drawing 2026-03-07 17.39.53.excalidraw.md",
@@ -264,15 +258,10 @@
     "img/Pasted image 20260307163410.png",
     "knowledge/202603061733.md",
     "indices/dl/GDL-2.md",
-    "knowledge/202603071611.md",
-    "knowledge/202603071530.md",
-    "knowledge/202603071531.md",
     "img/Pasted image 20260307161053.png",
-    "knowledge/202603071515.md",
     "img/Pasted image 20260307155207.png",
     "img/Pasted image 20260307154133.png",
     "img/Pasted image 20260307152029.png",
-    "img/Pasted image 20260307151532.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",

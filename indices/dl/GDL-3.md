@@ -37,4 +37,5 @@
     *   Head-to-Tail (Causal Chain)
 	    * [[202603071742|causal chain]]
     *   Head-to-Head (Collider/Common Effect)
-    *   Blocking paths vs. Unlocking paths based on observations
+	    * [[202603071838|collider]]
+    *   Blocking paths vs. Unlocking paths based on observations ![[Pasted image 20260307183915.png]]
