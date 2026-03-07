@@ -13,26 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-2.md",
+                "file": "indices/dl/GDL-3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-2"
+              "title": "GDL-3"
             }
           },
           {
-            "id": "691d6c2a287318e7",
+            "id": "416c6802a01c2e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202603071611.md",
+                "file": "knowledge/202603071742.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603071611"
+              "title": "202603071742"
+            }
+          },
+          {
+            "id": "62623828ec185609",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-07 17.48.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-07 17.48.59.excalidraw"
+            }
+          },
+          {
+            "id": "273e57e0bff37084",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-07 17.49.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-07 17.49.57.excalidraw"
             }
           }
         ]
@@ -67,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#marginal-likelihood",
+                "query": "joint-probabi",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,11 +112,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -173,6 +199,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "590b550bdf7e1a66",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -198,44 +234,45 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c999599cd61c83ac",
+  "active": "27865e54eb3aba83",
   "lastOpenFiles": [
-    "knowledge/202603071611.md",
+    "knowledge/202603071742.md",
+    "Excalidraw/Drawing 2026-03-07 17.49.57.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 17.48.59.excalidraw.md",
+    "indices/dl/GDL-3.md",
+    "Excalidraw/Drawing 2026-03-07 17.43.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 17.31.17.excalidraw.md",
+    "knowledge/202603071730.md",
+    "Excalidraw/Drawing 2026-03-07 17.39.53.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 17.38.50.excalidraw.md",
+    "knowledge/202602211112.md",
+    "knowledge/202603071712.md",
+    "knowledge/202603071630.md",
+    "indices/dl/GDL-3 DRAFT.md",
+    "knowledge/202603071701.md",
+    "Excalidraw/Drawing 2026-03-07 17.13.08.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 17.08.30.excalidraw.md",
+    "knowledge/202603071643.md",
+    "Excalidraw",
+    "img/Pasted image 20260307170758.png",
+    "knowledge/202603071648.md",
+    "img/Pasted image 20260307165457.png",
+    "img/Pasted image 20260307165431.png",
+    "img/Pasted image 20260307164532.png",
+    "knowledge/202603071635.md",
+    "knowledge/202602201914.md",
+    "img/Pasted image 20260307163410.png",
+    "knowledge/202603061733.md",
     "indices/dl/GDL-2.md",
+    "knowledge/202603071611.md",
     "knowledge/202603071530.md",
     "knowledge/202603071531.md",
     "img/Pasted image 20260307161053.png",
     "knowledge/202603071515.md",
     "img/Pasted image 20260307155207.png",
     "img/Pasted image 20260307154133.png",
-    "knowledge/202603071517.md",
     "img/Pasted image 20260307152029.png",
-    "knowledge/202603071118.md",
-    "knowledge/202603071127.md",
-    "knowledge/202603071151.md",
-    "knowledge/202603071205.md",
     "img/Pasted image 20260307151532.png",
-    "img/Pasted image 20260307120627.png",
-    "img/Pasted image 20260307112703.png",
-    "knowledge/202603071052.md",
-    "knowledge/202603071042.md",
-    "home.md",
-    "knowledge/202602211112.md",
-    "knowledge/202602201914.md",
-    "knowledge/202603061800.md",
-    "knowledge/202603061701.md",
-    "knowledge/202603061733.md",
-    "knowledge/202602201842.md",
-    "knowledge/202603061845.md",
-    "knowledge/202603061825.md",
-    "knowledge/202603061658.md",
-    "indices/dl/GDL-3.md",
-    "knowledge/202603061740.md",
-    "knowledge/202602201848.md",
-    "img/Pasted image 20260306174414.png",
-    "indices/dl/GDL-6.md",
-    "img/Pasted image 20260303190411.png",
-    "img/Pasted image 20260303190306.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
@@ -245,7 +282,6 @@
     "indices",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "utils/template"
+    "Untitled.base"
   ]
 }
