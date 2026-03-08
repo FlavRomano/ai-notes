@@ -32,7 +32,7 @@
 	    * [[202603071517|beta]]
 	    * [[202603071515|dirichlet]]
     *   **Conjugate Priors**: Matching priors with likelihoods to ensure closed-form posteriors.
-	    * [[conjugate table]]
+	    * [[202603071611|conjugate table]]
 
 4.  **Inference and Learning**
 	- We want to predict a variable $X$ after seeing $d$ data and considering the hypothesis space $H$
