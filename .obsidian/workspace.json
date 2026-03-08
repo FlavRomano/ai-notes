@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "52ab420af215e77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603081806.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603081806"
+            }
+          },
+          {
             "id": "5c7247cc3d3a9154",
             "type": "leaf",
             "state": {
@@ -93,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markov blanket",
+                "query": "tag:markov-random-fields",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -235,22 +249,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "27865e54eb3aba83",
+  "active": "4b310626a1bbb986",
   "lastOpenFiles": [
+    "indices/dl/draft/GDL-4 draft.md",
     "knowledge/202603081845.md",
+    "knowledge/202603081806.md",
+    "knowledge/202603081809.md",
+    "indices/dl/GDL-4.md",
     "Excalidraw/Drawing 2026-03-08 18.55.01.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 18.49.21.excalidraw.md",
-    "indices/dl/GDL-4.md",
-    "indices/dl/draft/GDL-4 draft.md",
     "knowledge/202603081825.md",
     "knowledge/202603081820.md",
     "Excalidraw/Drawing 2026-03-08 18.36.58.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 18.22.32.excalidraw.md",
     "knowledge/202603081645.md",
     "knowledge/202603081702.md",
-    "knowledge/202603081806.md",
     "Excalidraw/Drawing 2026-03-08 18.11.52.excalidraw.md",
-    "knowledge/202603081809.md",
     "knowledge/202603081724.md",
     "knowledge/202603081743.md",
     "knowledge/202603081733.md",

@@ -29,7 +29,7 @@
 	   * [[202603081733|violation of faithfulness]]
 1. **Markov Random Fields (Undirected Models)**
    * Modeling symmetric/bidirectional dependencies
-	   * [[markov random fields]]
+	   * [[202603081806|markov random fields]]
    * Undirected conditional independence
 	   * [[202603081809|node separation in MRF]]
    * Joint probability factorization, Cliques and maximal cliques, Maximal clique factorization 
