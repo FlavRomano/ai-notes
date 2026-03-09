@@ -4,75 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab792df8bada6f7",
+        "id": "dce136185308c964",
         "type": "tabs",
         "children": [
           {
-            "id": "4b310626a1bbb986",
+            "id": "079c7992eb4c9fa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-4.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDL-4"
-            }
-          },
-          {
-            "id": "d8d5eedac82018d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "indices/dl/draft/GDL-4 draft.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDL-4 draft"
-            }
-          },
-          {
-            "id": "71af4ef2c1bfff05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202603081845.md",
+                "file": "indices/dl/GDL-5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603081845"
+              "title": "GDL-5"
             }
           },
           {
-            "id": "52ab420af215e77a",
+            "id": "2a3def99e035588a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202603081806.md",
+                "file": "knowledge/202603092139.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202603092139"
+            }
+          },
+          {
+            "id": "e5ef6066a2a7a2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202603092159.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202603081806"
-            }
-          },
-          {
-            "id": "5c7247cc3d3a9154",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-08 18.55.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-08 18.55.01.excalidraw"
+              "title": "202603092159"
             }
           }
         ]
@@ -128,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indices/ml/ML-19.md",
+                "file": "indices/dl/GDL-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ML-19"
+              "title": "Backlinks for GDL-5"
             }
           },
           {
@@ -168,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "indices/dl/GDL-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from GDL-5"
             }
           },
           {
@@ -196,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indices/ml/ML-19.md",
+                "file": "indices/dl/GDL-5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ML-19"
+              "title": "Outline of GDL-5"
             }
           },
           {
@@ -249,14 +223,27 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4b310626a1bbb986",
+  "active": "27865e54eb3aba83",
   "lastOpenFiles": [
+    "knowledge/202603092139.md",
+    "knowledge/202603092159.md",
+    "Excalidraw/Drawing 2026-03-09 21.49.40.excalidraw.md",
+    "indices/dl/GDL-5.md",
+    "knowledge/202603092131.md",
+    "Excalidraw/Drawing 2026-03-09 21.35.26.excalidraw.md",
+    "indices/dl/GDL-3.md",
+    "indices/dl/GDL-4.md",
+    "knowledge/202603092112.md",
+    "Excalidraw/Drawing 2026-03-09 21.15.09.excalidraw.md",
+    "indices/dl/GDL-6.md",
+    "home.md",
+    "Excalidraw/Drawing 2026-03-08 18.55.01.excalidraw.md",
+    "indices/dl/GDL-7.md",
+    "indices/dl/GDL-8.md",
     "indices/dl/draft/GDL-4 draft.md",
     "knowledge/202603081845.md",
     "knowledge/202603081806.md",
     "knowledge/202603081809.md",
-    "indices/dl/GDL-4.md",
-    "Excalidraw/Drawing 2026-03-08 18.55.01.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 18.49.21.excalidraw.md",
     "knowledge/202603081825.md",
     "knowledge/202603081820.md",
@@ -264,19 +251,6 @@
     "Excalidraw/Drawing 2026-03-08 18.22.32.excalidraw.md",
     "knowledge/202603081645.md",
     "knowledge/202603081702.md",
-    "Excalidraw/Drawing 2026-03-08 18.11.52.excalidraw.md",
-    "knowledge/202603081724.md",
-    "knowledge/202603081743.md",
-    "knowledge/202603081733.md",
-    "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md",
-    "knowledge/202603081710.md",
-    "Excalidraw/Drawing 2026-03-08 17.11.37.excalidraw.md",
-    "utils/prompts.md",
-    "knowledge/202603081625.md",
-    "Excalidraw/Drawing 2026-03-08 16.33.26.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-08 16.54.48.excalidraw.md",
-    "knowledge/202603081557.md",
-    "knowledge/202603081614.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
