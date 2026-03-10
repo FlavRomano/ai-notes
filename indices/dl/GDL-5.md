@@ -16,9 +16,10 @@
 	    * [[202603092159|truncated factorization]]
 3.  **Causal Inference & Effects**
     *   Average Treatment Effect (ATE)
-	    * [[]]
-    *   Distinction between Conditioning and Intervening
-    *   Causal Effect Identifiability
+	    * [[202603100847|ATE]]
+	* Simpson paradox
+		* [[|Simpson Paradox]]
+	*   Causal Effect Identifiability
 4.  **Adjustment Criteria**
     *   Causal Sufficiency
     *   Back-Door Adjustment (and Optimal Adjustment sets)
