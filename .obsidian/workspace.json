@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GDL-9 draft.md",
-                "mode": "source",
+                "file": "indices/dl/GDL-9,10.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-9 draft"
+              "title": "GDL-9,10"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,18 +197,20 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
+    "indices/dl/GDL-8.md",
+    "utils/prompts.md",
+    "indices/dl/GDL-9,10.md",
+    "home.md",
     "indices/dl/GDL-5.md",
     "indices/dl/draft/GDL-9 draft.md",
     "indices/ml/ML-18.md",
     "knowledge/202603100847.md",
-    "indices/dl/GDL-8.md",
     "knowledge/202602242146.md",
     "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.54.48.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.07.07.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 18.43.22.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 17.39.53.excalidraw.md",
-    "home.md",
     "Excalidraw/Drawing 2026-03-10 09.04.51.excalidraw.md",
     "knowledge/202603100903.md",
     "knowledge/202603092139.md",
@@ -222,8 +223,6 @@
     "knowledge/202603092112.md",
     "Excalidraw/Drawing 2026-03-09 21.15.09.excalidraw.md",
     "indices/dl/GDL-6.md",
-    "Excalidraw/Drawing 2026-03-08 18.55.01.excalidraw.md",
-    "indices/dl/GDL-7.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
