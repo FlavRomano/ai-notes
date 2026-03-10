@@ -53,3 +53,15 @@ Hidden Markov Model
 - the charaterizing distribution for hmm are the same of markov model  with emissions $$\sum_{\overline S} P(S_{1}) P(Y_{1} \mid S_{1}) \prod_{t=2}^T P(Y_{t} \mid S_{t}) P(S_{t} \mid S_{t-1})$$
 
 $$\Pi$$ is a vector $$\mathbb{R}^c$$ and $$A$$ is a matrix $$\mathbb{R}^{c \times c}$$
+
+- smoothing
+	- learn a hidden markov model with Expectation Maximization
+		- so we estimate the posterior
+
+- Forward backward algorithm
+	- separating past from future
+	- def cond ind.
+	- introduce hidden state by marginalization
+	- recursion
+	- message passing from $t=1$ to $t=2$
+		- $\alpha$ is a vector $$\mathbb{R}^{c}$$
