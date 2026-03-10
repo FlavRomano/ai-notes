@@ -11,12 +11,14 @@
             "id": "5c337683e1e08591",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md"
+                "file": "indices/dl/draft/GDL-9 draft.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-08 17.35.00.excalidraw"
+              "icon": "lucide-file",
+              "title": "GDL-9 draft"
             }
           }
         ]
@@ -195,6 +197,7 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.54.48.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.07.07.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 18.43.22.excalidraw.md",
@@ -220,7 +223,6 @@
     "indices/dl/GDL-8.md",
     "indices/dl/draft/GDL-4 draft.md",
     "knowledge/202603081845.md",
-    "knowledge/202603081806.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
