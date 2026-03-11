@@ -78,3 +78,49 @@ GDL 10
 		- by applying again the def cond indipendence on $$P(\overline y_{t+2:T}, S_{t+1} = j \mid S_{t} = i)$$ moving the $S_{t+1} = j$ on the conditioning side we get something probability distribution multiplyed by the transition system $A$
 			- again, we can get rid of $S_{t} = i$ on the probability distribution because the path is blocked
 			- we obtained $\beta_{t+2}(j)$
+				- recursive definition!
+
+We got a recursion to compute $\alpha$ and $\beta$
+- $\beta$ starts on the end of the sequence $T$
+	- $i$ is an hidden state of value, we got $c$ of them
+	- we send package $\beta_{T}$ to $\beta_{T-1}$
+		- $\beta_{T-1}$ we'll use the message from the future to compute its own package
+		- and so on... Message passing
+
+e.g $\beta_{T}$ components don't sum to 1 because each one is a different probability distribution hence the single component is 1 itself.
+
+In sum-product message passing there is a generalization of marginalization
+
+![[Drawing 2026-03-11 16.48.45.excalidraw]]
+
+learning
+- We don't know the indicator function $$\mathcal{L}_{c}(\theta) = A + B + C$$
+	- expectation maximization comes to help
+		- we don't have to $\max f$, we can $\max \mathbb{E}[f]$
+		- we optimize $$\mathbb{E}_{z\mid i,\theta}[\mathcal{L}_{c}(\theta)]$$
+			- both $i$ and $\theta$ are constant, the only variable is $z$
+	- maximize expectation of $A$ $$\mathbb{E}_{z\mid \theta,i}[A] = \mathbb{E}[z \cdot a] = a \cdot \mathbb{E}[z]$$ we get posterior for time 1, because the probability distribution of indicator function be 1 has the same probability of $S_{1} = i$ given $\theta$ parameter and data $\overline y$\
+		- we can learn the posterior with $\alpha \beta$ recursion
+			- that's the E-step of the learning
+
+- We update prior and transaction matrix $A$ with a pseudo counting (soft counts)
+	- prior
+		- sum of $\gamma_{1}^n(i)$  divided by $N$
+			- where $\gamma  = P(S_{1} = i \mid y^n)$
+
+---
+
+Viterbi algorithm
+- decoding problem
+	- find the optimal state assignment given an observation $Y$
+		- assignment for each time step
+	- we can use the posterior?
+		- yes but we find a local optima
+			- is optimal for the single hidden state
+			- it's not enough really
+	- we want to find the most likely joint hidden state assignment
+- two recursion
+	- from future to first state 
+		- $\beta$ recursion
+	- from the first state to the last 
+		- $\alpha$ recursion
