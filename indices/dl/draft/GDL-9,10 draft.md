@@ -65,3 +65,16 @@ $$\Pi$$ is a vector $$\mathbb{R}^c$$ and $$A$$ is a matrix $$\mathbb{R}^{c \time
 	- recursion
 	- message passing from $t=1$ to $t=2$
 		- $\alpha$ is a vector $$\mathbb{R}^{c}$$
+
+---
+GDL 10
+
+- beta term $$\beta _{t+1}(i) = P(\overline y_{t+1:T} \mid S_{t} = i)$$
+	- the conditioning on $S_t$ reminds of the conditioning $$P(S_{t+1}, S_{t})$$ so we'll see this distribution at some point
+		- we will introduce the term by marginalization $$\sum_{j} P(\overline y_{t+1:T}, S_{t+1}= j\mid S_{t}= i)$$ the left term is the exactly the emission
+		- by applying the def cond indipendence, we want to condition on $y_{t+1}$ $$\sum_{j} P(y_{t+1} \mid \overline y_{t+2:T}, S
+		  _{t+1} = j , S_{t} = i) P(\overline y_{t+2:T}, S_{t+1} = j \mid S_{t} = i)$$
+			- all future path are blocked by $S_{t}$ so everything else that comes next became pointless $$\sum_{j}  P(y_{t+1}\mid S_{t+1} = j)P(\overline y_{t+2:T}, S_{t+1} = j \mid S_{t} = i)$$
+		- by applying again the def cond indipendence on $$P(\overline y_{t+2:T}, S_{t+1} = j \mid S_{t} = i)$$ moving the $S_{t+1} = j$ on the conditioning side we get something probability distribution multiplyed by the transition system $A$
+			- again, we can get rid of $S_{t} = i$ on the probability distribution because the path is blocked
+			- we obtained $\beta_{t+2}(j)$

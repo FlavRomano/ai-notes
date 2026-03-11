@@ -18,7 +18,7 @@
     *   Average Treatment Effect (ATE)
 	    * [[202603100847|ATE]]
 	* Simpson paradox
-		* [[|Simpson Paradox]]
+		* [[202603100903|Simpson Paradox]]
 	*   Causal Effect Identifiability
 4.  **Adjustment Criteria**
     *   Causal Sufficiency
