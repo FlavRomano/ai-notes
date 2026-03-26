@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -197,11 +198,13 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
-    "indices/dl/GDL-8.md",
+    "indices/dl/GDL-11.md",
+    "utils/prompts.md",
+    "indices/dl/GDL-9,10.md",
     "indices/dl/draft/GDL-15,16 draft.md",
+    "indices/dl/GDL-8.md",
     "indices/dl/GDL-7.md",
     "indices/dl/GDL-6.md",
-    "indices/dl/GDL-9,10.md",
     "indices/dl/GDL-5.md",
     "indices/dl/GDL-4.md",
     "home.md",
@@ -209,7 +212,6 @@
     "indices/dl/draft/GDL-9,10 draft.md",
     "Excalidraw/Drawing 2026-03-11 16.48.45.excalidraw.md",
     "indices/dl/GDL-2.md",
-    "utils/prompts.md",
     "indices/ml/ML-18.md",
     "knowledge/202603100847.md",
     "knowledge/202602242146.md",
@@ -222,7 +224,6 @@
     "knowledge/202603092139.md",
     "knowledge/202603092159.md",
     "Excalidraw/Drawing 2026-03-09 21.49.40.excalidraw.md",
-    "knowledge/202603092131.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",

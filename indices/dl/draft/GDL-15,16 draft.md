@@ -67,3 +67,67 @@
 		- but because we got $K$ kernels we got as a feature map a $H' \times W' \times D_{K}$, where the number of kernels became the number of channels
 			- we didn't lose channel at all, ready for pooling $H'' \times W'' \times D_{K}$
 
+- sparsity
+	- not every input is connected to every output
+		- the other connection are weighted 0
+		- reduce parameters
+	- introducing striding the sparsity increase
+		- makes the convolutional layer sparser
+
+- design choice on pooling
+	- max pooling
+		- translational invariance
+		- not rotational invariance
+	
+	- cross channel pooling
+		- rotational invariance
+		- size invariance
+		- color invariance
+		- etc...
+
+- single neuron
+	- the deeper is the broader input samples looks
+	- higher abstraction
+
+---
+
+training cnn
+
+- deconvolution
+	- is equals to upsampling
+	- this technique can be used to throw away the noise
+		- convolution, compression then deconvolution
+		- throw redundant informations or useless informations
+
+- googlenet
+	- not using dense layers
+	- use intermediate result (output layers) as checkpoint
+		- if the gradient dies we can restart from another checkpoint
+	- 1x1 convolution
+		- to compress stuff
+	- obtain rich representation at multiple level
+
+- batch normalization
+	- way to control variance
+	- layer with gamma and beta parameters
+		- learnable
+	- standard de facto in mini batch with deep architecture and independent data (i.i.e)
+		- if data are dependent this thing doesn't work
+			- like sequence
+
+- resnet
+	- large scale tasks
+	- propagation effect
+		- on gradient descent error correction the copied part has gradient 1
+			- the signal flows propagating the adjusted error
+		- we batch normalize after every residual
+			- to avoid variance amplification (we accumulate variance)
+
+- dense cnn
+	- good for small tasks
+	- all layers see all features of the previous layers
+		- we get a similiar effect of resnet
+			- powerful representation
+			- more multiplication and more complex in terms of memory
+
+- 
