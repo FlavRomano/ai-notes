@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GDL-15,16 draft.md",
+                "file": "indices/dl/draft/GDL-17 draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-15,16 draft"
+              "title": "GDL-17 draft"
             }
           }
         ]
@@ -198,16 +198,17 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
-    "indices/dl/GDL-11.md",
-    "utils/prompts.md",
-    "indices/dl/GDL-9,10.md",
-    "indices/dl/draft/GDL-15,16 draft.md",
-    "indices/dl/GDL-8.md",
+    "home.md",
+    "indices/dl/draft/GDL-17 draft.md",
     "indices/dl/GDL-7.md",
+    "indices/dl/GDL-8.md",
     "indices/dl/GDL-6.md",
     "indices/dl/GDL-5.md",
+    "indices/dl/GDL-11.md",
+    "indices/dl/GDL-9,10.md",
     "indices/dl/GDL-4.md",
-    "home.md",
+    "indices/dl/draft/GDL-15,16 draft.md",
+    "utils/prompts.md",
     "knowledge/202603100903.md",
     "indices/dl/draft/GDL-9,10 draft.md",
     "Excalidraw/Drawing 2026-03-11 16.48.45.excalidraw.md",
@@ -223,7 +224,6 @@
     "Excalidraw/Drawing 2026-03-10 09.04.51.excalidraw.md",
     "knowledge/202603092139.md",
     "knowledge/202603092159.md",
-    "Excalidraw/Drawing 2026-03-09 21.49.40.excalidraw.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
