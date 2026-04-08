@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-12.md",
+                "file": "indices/dl/draft/GLD-19 draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-12"
+              "title": "GLD-19 draft"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -197,17 +198,20 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
+    "indices/dl/draft/GLD-18 draft.md",
+    "indices/dl/draft/GLD-19 draft.md",
+    "indices/dl/GDL-13.md",
     "utils/prompts.md",
     "indices/dl/GDL-12.md",
+    "COSTITUZIONE E CITTADINANZA ITALIANA.md",
     "indices/dl/GDL-11.md",
     "indices/dl/GDL-9,10.md",
-    "indices/dl/draft/GLD-18 draft.md",
+    "indices/dl/GDL-8.md",
+    "indices/dl/GDL-7.md",
+    "indices/dl/GDL-5.md",
+    "indices/dl/GDL-6.md",
     "home.md",
     "indices/dl/draft/GDL-17 draft.md",
-    "indices/dl/GDL-7.md",
-    "indices/dl/GDL-8.md",
-    "indices/dl/GDL-6.md",
-    "indices/dl/GDL-5.md",
     "indices/dl/GDL-4.md",
     "indices/dl/draft/GDL-15,16 draft.md",
     "knowledge/202603100903.md",
@@ -220,9 +224,6 @@
     "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.54.48.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.07.07.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-07 18.43.22.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-07 17.39.53.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-10 09.04.51.excalidraw.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
