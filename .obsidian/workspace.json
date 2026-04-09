@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GLD-19 draft.md",
+                "file": "indices/dl/draft/GDL-20 draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GLD-19 draft"
+              "title": "GDL-20 draft"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "5c337683e1e08591",
   "lastOpenFiles": [
-    "indices/dl/draft/GLD-18 draft.md",
     "indices/dl/draft/GLD-19 draft.md",
+    "indices/dl/draft/GDL-20 draft.md",
+    "indices/dl/draft/GLD-18 draft.md",
     "indices/dl/GDL-13.md",
     "utils/prompts.md",
     "indices/dl/GDL-12.md",
@@ -223,7 +224,6 @@
     "knowledge/202602242146.md",
     "Excalidraw/Drawing 2026-03-08 17.35.00.excalidraw.md",
     "Excalidraw/Drawing 2026-03-08 16.54.48.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-08 16.07.07.excalidraw.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",

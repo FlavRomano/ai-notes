@@ -51,3 +51,4 @@ local attention
 - add a neural network that decide 
 	- which are the relevant input based on some inductive bias
 
+attention is good because it has low inductive bias, but needs to learn all from data.
