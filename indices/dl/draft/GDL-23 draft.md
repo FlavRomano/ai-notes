@@ -1,0 +1,25 @@
+adversarial learning
+- z sampled outside the network
+- simple sampling, complex mapping (like a non linear mapping in a nn)
+- how to train the generator
+	- fake supervisor problem
+		- capability to differenciate two kinds of picture
+			- the one generated from a neural network vs 
+			- the real image from the dataset
+		- no data label needed
+			- I already know from which source the pictures come
+			- the discriminator
+	- loss function that promotes generator to generates new data
+		- generator vs discriminator network
+			- generator network generates images that try to fools the discriminator
+			- cheap mapping 
+				- noise to real images
+					- locality
+				- very cheap
+				- no difficult samples
+- optimization 
+	- 0 sum game
+	- first term
+		- pushes high log likelihood wrt data
+	- second term
+	- solution is a saddle point

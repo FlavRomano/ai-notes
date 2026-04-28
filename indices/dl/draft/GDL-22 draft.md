@@ -24,6 +24,6 @@ variational approximation
 		- we train z to be consisted to a Normal $\mathcal{N}(0,1)$
 	- so penalizes the log likelihood by losing information on inputs in the encoder distribution
 
-we can't use variational autoencoder to compute the likelihood of input, still intractable.
+we can't use variational autoencoder to compute the likelihood of input, still intractable => it's just an easy way to sample data (not very high quality one, we have GAN for that) => good model for representational learning
 
-smooth mapping of $z$ =>we learn an approximation of the data manifold (at least of the factor of variation of data $z$ considered) => organized latent space for representation learning (two points are closer in latent space so they have closer meaning)
+smooth mapping of $z$ =>we learn an approximation of the data manifold (at least of the factor of variation of data $z$ considered) => organized latent space for representation learning (two points are closer in latent space so they have closer meaning).
