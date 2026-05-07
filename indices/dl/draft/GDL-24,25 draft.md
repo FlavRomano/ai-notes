@@ -44,7 +44,7 @@ normalizing flows
 				- one for each flow layer
 			- still not invertible
 				- but if the network is Lipschitz
-					- constraint the activation function of the neural network
+					- constraint the activation function of the neural network 
 					- small changes of $z$ are invertible because of Banach theorem
 						- can be reconstructed and inverted
 						- theorem tells that we converge to a fixed point

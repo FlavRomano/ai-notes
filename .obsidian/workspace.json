@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GDL-24,25 draft.md",
+                "file": "indices/dl/draft/GDL-26.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-24,25 draft"
+              "title": "GDL-26"
             }
           }
         ]
@@ -195,8 +195,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8d5373c9d546a458",
+  "active": "1098d78a1cca128d",
   "lastOpenFiles": [
+    "home.md",
+    "indices/dl/draft/GDL-26.md",
     "indices/dl/draft/GDL-25 draft.md",
     "indices/dl/draft/GDL-24,25 draft.md",
     "indices/dl/draft/GDL-23 draft.md",
@@ -210,7 +212,6 @@
     "indices/dl/GDL-11.md",
     "indices/dl/GDL-9,10.md",
     "indices/dl/GDL-8.md",
-    "home.md",
     "indices/dl/draft/GDL-22 draft.md",
     "knowledge/202602251329.md",
     "indices/dl/draft/GDL-13 draft.md",
@@ -222,7 +223,6 @@
     "indices/dl/GDL-6.md",
     "indices/dl/GDL-4.md",
     "knowledge/202603100903.md",
-    "indices/dl/draft/GDL-9,10 draft.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
