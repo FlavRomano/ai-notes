@@ -56,3 +56,8 @@ we still don't know the score because of $p_{t}(z)$, do we need it anyway?
 		- $\sigma$ how much noise i'm injecting
 	- highly parallel
 		- easy training
+- sampling is sequencial
+	- solve cauchy problem
+	- but easy anyway
+		- easier than diffusion models
+
