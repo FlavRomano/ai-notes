@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac3d587c96d4fb7d",
+        "id": "81e6da2b2651831f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5373c9d546a458",
+            "id": "d4b2ca556ae24515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GDL-27.md",
+                "file": "indices/dl/draft/GDL-28 draft.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-27"
+              "title": "GDL-28 draft"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manifold",
-                "matchingCase": false,
+                "query": "MAP",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5dd332d56175b48",
@@ -195,14 +196,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8d5373c9d546a458",
+  "active": "d4b2ca556ae24515",
   "lastOpenFiles": [
-    "indices/dl/draft/GDL-26  draft.md",
-    "indices/dl/draft/GDL-27.md",
-    "home.md",
-    "indices/dl/draft/GDL-25 draft.md",
+    "indices/dl/draft/GDL-28 draft.md",
+    "knowledge/202605091745.md",
+    "indices/dl/GDL-23.md",
+    "knowledge/202605091723.md",
+    "img/Pasted image 20260509172444.png",
+    "knowledge/202605091716.md",
+    "knowledge/202603061825.md",
+    "MAP.md",
+    "img/Pasted image 20260509170702.png",
+    "Excalidraw/Drawing 2026-05-09 17.01.09.excalidraw.md",
     "indices/dl/draft/GDL-24,25 draft.md",
     "indices/dl/draft/GDL-23 draft.md",
+    "indices/dl/draft/GDL-27 draft.md",
+    "indices/dl/draft/GDL-26  draft.md",
+    "home.md",
+    "indices/dl/draft/GDL-25 draft.md",
     "indices/dl/draft/GDL-15,16 draft.md",
     "indices/dl/draft/GDL-17 draft.md",
     "indices/dl/draft/GDL-18 draft.md",
@@ -215,14 +226,6 @@
     "indices/dl/GDL-8.md",
     "indices/dl/draft/GDL-22 draft.md",
     "knowledge/202602251329.md",
-    "indices/dl/draft/GDL-13 draft.md",
-    "indices/dl/draft/GDL-21 draft.md",
-    "utils/prompts.md",
-    "COSTITUZIONE E CITTADINANZA ITALIANA.md",
-    "indices/dl/GDL-7.md",
-    "indices/dl/GDL-5.md",
-    "indices/dl/GDL-6.md",
-    "indices/dl/GDL-4.md",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
@@ -233,8 +236,6 @@
     "img/Pasted image 20260307163410.png",
     "img/Pasted image 20260307161053.png",
     "img/Pasted image 20260307155207.png",
-    "img/Pasted image 20260307154133.png",
-    "img/Pasted image 20260307152029.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
