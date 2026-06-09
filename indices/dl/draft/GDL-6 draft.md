@@ -92,5 +92,3 @@ We can have a reverse model with a possibly different gaussian noise term with t
 
 If the noise terms are not gaussian, Darmois-Strinovich theorem to distinguish between the two.
 
-### Non linear Noise model
-

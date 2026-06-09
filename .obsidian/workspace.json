@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "81e6da2b2651831f",
+        "id": "4bfb44caceb23f60",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b2ca556ae24515",
+            "id": "1dc5a40c7adb469e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/draft/GDL-28 draft.md",
+                "file": "indices/dl/GDL-7.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GDL-28 draft"
+              "title": "GDL-7"
+            }
+          },
+          {
+            "id": "88382782df7b838c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202606091712.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202606091712"
+            }
+          },
+          {
+            "id": "c7b591b8edde5879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202606091734.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202606091734"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MAP",
+                "query": "maximum likelihood",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -95,17 +124,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/202603100903.md",
+                "file": "knowledge/202606091712.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202603100903"
+              "title": "Backlinks for 202606091712"
             }
           },
           {
@@ -114,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/202603100903.md",
+                "file": "knowledge/202606091712.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202603100903"
+              "title": "Outgoing links from 202606091712"
             }
           },
           {
@@ -143,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/202603100903.md",
+                "file": "knowledge/202606091712.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202603100903"
+              "title": "Outline of 202606091712"
             }
           },
           {
@@ -177,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,36 +225,38 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d4b2ca556ae24515",
+  "active": "27865e54eb3aba83",
   "lastOpenFiles": [
-    "indices/dl/draft/GDL-28 draft.md",
-    "knowledge/202605091745.md",
-    "indices/dl/GDL-23.md",
-    "knowledge/202605091723.md",
-    "img/Pasted image 20260509172444.png",
-    "knowledge/202605091716.md",
+    "knowledge/202606091734.md",
+    "knowledge/202606091731.md",
+    "knowledge/202606091712.md",
+    "indices/dl/GDL-7.md",
+    "indices/dl/draft/GDL-7 draft.md",
+    "knowledge/202606091633.md",
+    "knowledge/202606091643.md",
     "knowledge/202603061825.md",
-    "MAP.md",
-    "img/Pasted image 20260509170702.png",
-    "Excalidraw/Drawing 2026-05-09 17.01.09.excalidraw.md",
-    "indices/dl/draft/GDL-24,25 draft.md",
-    "indices/dl/draft/GDL-23 draft.md",
-    "indices/dl/draft/GDL-27 draft.md",
-    "indices/dl/draft/GDL-26  draft.md",
+    "knowledge/202603061658.md",
+    "knowledge/202603061845.md",
     "home.md",
-    "indices/dl/draft/GDL-25 draft.md",
-    "indices/dl/draft/GDL-15,16 draft.md",
-    "indices/dl/draft/GDL-17 draft.md",
-    "indices/dl/draft/GDL-18 draft.md",
-    "indices/dl/draft/GDL-19 draft.md",
-    "indices/dl/draft/GDL-20 draft.md",
-    "indices/dl/GDL-13.md",
-    "indices/dl/GDL-12.md",
-    "indices/dl/GDL-11.md",
-    "indices/dl/GDL-9,10.md",
-    "indices/dl/GDL-8.md",
-    "indices/dl/draft/GDL-22 draft.md",
-    "knowledge/202602251329.md",
+    "indices/dl/GDL-6.md",
+    "knowledge/202606091611.md",
+    "Excalidraw/Drawing 2026-06-09 15.58.10.excalidraw.md",
+    "knowledge/202606091557.md",
+    "knowledge/202606091238.md",
+    "knowledge/202606091158.md",
+    "knowledge/202606091207.md",
+    "knowledge/202606091537.md",
+    "Excalidraw/Drawing 2026-06-09 15.37.30.excalidraw.md",
+    "knowledge/202606091527.md",
+    "indices/dl/draft/GDL-6 draft.md",
+    "Excalidraw/Drawing 2026-06-09 15.33.18.excalidraw.md",
+    "knowledge/202606091532.md",
+    "Excalidraw/Drawing 2026-06-09 15.27.38.excalidraw.md",
+    "knowledge/202606091227.md",
+    "img/Pasted image 20260609120300.png",
+    "indices/dl/poster",
+    "img/Pasted image 20260509172444.png",
+    "img/Pasted image 20260509170702.png",
     "indices/dl/draft",
     "img/Pasted image 20260307183915.png",
     "Excalidraw",
@@ -235,7 +266,6 @@
     "img/Pasted image 20260307164532.png",
     "img/Pasted image 20260307163410.png",
     "img/Pasted image 20260307161053.png",
-    "img/Pasted image 20260307155207.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
@@ -243,7 +273,6 @@
     "img",
     "indices/ml",
     "indices",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "Untitled 2.base"
   ]
 }
