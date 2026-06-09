@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "88382782df7b838c",
+            "id": "de2a414f5f505848",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202606091712.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202606091712"
-            }
-          },
-          {
-            "id": "c7b591b8edde5879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202606091734.md",
+                "file": "knowledge/202606091806.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202606091734"
+              "title": "202606091806"
             }
           }
         ],
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/202606091712.md",
+                "file": "knowledge/202606091806.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202606091712"
+              "title": "Backlinks for 202606091806"
             }
           },
           {
@@ -143,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/202606091712.md",
+                "file": "knowledge/202606091806.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202606091712"
+              "title": "Outgoing links from 202606091806"
             }
           },
           {
@@ -172,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/202606091712.md",
+                "file": "knowledge/202606091806.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202606091712"
+              "title": "Outline of 202606091806"
             }
           },
           {
@@ -225,12 +211,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "27865e54eb3aba83",
+  "active": "de2a414f5f505848",
   "lastOpenFiles": [
+    "knowledge/202606091806.md",
+    "indices/dl/GDL-7.md",
+    "utils/template/fleeting-template.md",
+    "knowledge/202606091805.md",
+    "knowledge/202606091712.md",
+    "knowledge/202606091754.md",
+    "img/Pasted image 20260609175903.png",
     "knowledge/202606091734.md",
     "knowledge/202606091731.md",
-    "knowledge/202606091712.md",
-    "indices/dl/GDL-7.md",
     "indices/dl/draft/GDL-7 draft.md",
     "knowledge/202606091633.md",
     "knowledge/202606091643.md",
@@ -249,10 +240,6 @@
     "Excalidraw/Drawing 2026-06-09 15.37.30.excalidraw.md",
     "knowledge/202606091527.md",
     "indices/dl/draft/GDL-6 draft.md",
-    "Excalidraw/Drawing 2026-06-09 15.33.18.excalidraw.md",
-    "knowledge/202606091532.md",
-    "Excalidraw/Drawing 2026-06-09 15.27.38.excalidraw.md",
-    "knowledge/202606091227.md",
     "img/Pasted image 20260609120300.png",
     "indices/dl/poster",
     "img/Pasted image 20260509172444.png",
@@ -265,7 +252,6 @@
     "img/Pasted image 20260307165431.png",
     "img/Pasted image 20260307164532.png",
     "img/Pasted image 20260307163410.png",
-    "img/Pasted image 20260307161053.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
