@@ -32,8 +32,8 @@
     *   MAP Estimation and Conjugate Distributions (e.g., Beta prior for the Biased Coin)
     *   The Bayesian Approach (learning a distribution over models using the whole posterior)
 4. **The Naïve Bayes Classifier**
-	- [[Naive Bayes Classifier goal]]
-    *   The Naïve Bayes Assumption (Conditional independence between attributes)
-    *   Formulating the Naïve Bayes Likelihood (using indicator variables)
-    *   Maximization of the Naïve Bayes Log-Likelihood
-    *   Addressing scarce data with Prior Estimates (Laplacian smoothing / virtual counts)
+	- [[202606091806|Intuition]]
+    *   [[202606101553|The Naïve Bayes Assumption]](Conditional independence between attributes)
+    * [[202606101555|model parameters]]
+    *   [[202606101616|Formulating the Naïve Bayes Likelihood]](using indicator variables)
+    *   [[202606101700|Addressing scarce data with Prior Estimates]] (Laplacian smoothing / virtual counts)
