@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "indices/dl/GDL-8.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "202606111842"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/202606111842.md",
+                "file": "indices/dl/GDL-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202606111842"
+              "title": "Backlinks for GDL-8"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/202606111842.md",
+                "file": "indices/dl/GDL-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 202606111842"
+              "title": "Outgoing links from GDL-8"
             }
           },
           {
@@ -158,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/202606111842.md",
+                "file": "indices/dl/GDL-8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202606111842"
+              "title": "Outline of GDL-8"
             }
           },
           {
@@ -211,7 +210,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3afdfbe913cdfca3",
+  "active": "1dc5a40c7adb469e",
   "lastOpenFiles": [
     "knowledge/202606111842.md",
     "indices/dl/GDL-8.md",

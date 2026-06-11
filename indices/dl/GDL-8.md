@@ -47,3 +47,4 @@
 	   * [[202606111838|complete log likelihood]]
 	   * [[202606111837|indicator variables]]
    * Applying the EM algorithm to GMMs
+	   * [[202606111842|EM on GMM]]
