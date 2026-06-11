@@ -13,43 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-7.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDL-7"
-            }
-          },
-          {
-            "id": "de2a414f5f505848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202606101555.md",
+                "file": "indices/dl/GDL-8.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202606101555"
+              "title": "GDL-8"
             }
           },
           {
-            "id": "a7de4e7b8f8adb35",
+            "id": "3afdfbe913cdfca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/202606101700.md",
-                "mode": "preview",
+                "file": "knowledge/202606111842.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202606101700"
+              "title": "202606111842"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indices/dl/GDL-7.md",
+                "file": "knowledge/202606111842.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GDL-7"
+              "title": "Backlinks for 202606111842"
             }
           },
           {
@@ -142,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indices/dl/GDL-7.md",
+                "file": "knowledge/202606111842.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GDL-7"
+              "title": "Outgoing links from 202606111842"
             }
           },
           {
@@ -171,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indices/dl/GDL-7.md",
+                "file": "knowledge/202606111842.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GDL-7"
+              "title": "Outline of 202606111842"
             }
           },
           {
@@ -224,13 +211,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1dc5a40c7adb469e",
+  "active": "3afdfbe913cdfca3",
   "lastOpenFiles": [
-    "knowledge/202606101555.md",
+    "knowledge/202606111842.md",
+    "indices/dl/GDL-8.md",
+    "knowledge/202606111744.md",
+    "knowledge/202606111838.md",
+    "knowledge/202606111837.md",
+    "knowledge/202606111738.md",
+    "img/Pasted image 20260611175350.png",
+    "knowledge/202606111727.md",
+    "knowledge/202606101950.md",
+    "knowledge/202606101839.md",
+    "knowledge/202606101934.md",
+    "indices/dl/draft/GDL-8 draft.md",
+    "img/Pasted image 20260610194834.png",
+    "indices/dl/GDL-4.md",
+    "knowledge/202606101734.md",
+    "indices/dl/GDL-7.md",
     "knowledge/202606101700.md",
+    "knowledge/202606101555.md",
     "knowledge/202606091806.md",
     "knowledge/202606101616.md",
-    "indices/dl/GDL-7.md",
     "indices/dl/draft/GDL-7 draft.md",
     "Untitled.base",
     "Untitled 1.base",
@@ -243,19 +245,6 @@
     "img/Pasted image 20260609175903.png",
     "knowledge/202606091734.md",
     "knowledge/202606091731.md",
-    "knowledge/202606091633.md",
-    "knowledge/202606091643.md",
-    "knowledge/202603061825.md",
-    "knowledge/202603061658.md",
-    "knowledge/202603061845.md",
-    "home.md",
-    "indices/dl/GDL-6.md",
-    "knowledge/202606091611.md",
-    "Excalidraw/Drawing 2026-06-09 15.58.10.excalidraw.md",
-    "knowledge/202606091557.md",
-    "knowledge/202606091238.md",
-    "knowledge/202606091158.md",
-    "knowledge/202606091207.md",
     "img/Pasted image 20260609120300.png",
     "indices/dl/poster",
     "img/Pasted image 20260509172444.png",
@@ -266,8 +255,6 @@
     "img/Pasted image 20260307170758.png",
     "img/Pasted image 20260307165457.png",
     "img/Pasted image 20260307165431.png",
-    "img/Pasted image 20260307164532.png",
-    "img/Pasted image 20260307163410.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
