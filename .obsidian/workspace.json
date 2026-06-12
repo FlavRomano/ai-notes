@@ -4,38 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "4bfb44caceb23f60",
+        "id": "b4ab034c064dd550",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc5a40c7adb469e",
+            "id": "7644bd0b39b3c6be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indices/dl/GDL-8.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GDL-8"
-            }
-          },
-          {
-            "id": "3afdfbe913cdfca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/202606111842.md",
+                "file": "indices/dl/GDL-9,10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202606111842"
+              "title": "GDL-9,10"
+            }
+          },
+          {
+            "id": "a7ca0b599bd69bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/202606121828.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202606121828"
+            }
+          },
+          {
+            "id": "80b2c6963ccb054f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-12 18.36.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-12 18.36.15.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indices/dl/GDL-8.md",
+                "file": "knowledge/202606121828.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GDL-8"
+              "title": "Backlinks for 202606121828"
             }
           },
           {
@@ -128,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indices/dl/GDL-8.md",
+                "file": "knowledge/202606121828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GDL-8"
+              "title": "Outgoing links from 202606121828"
             }
           },
           {
@@ -157,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indices/dl/GDL-8.md",
+                "file": "knowledge/202606121828.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GDL-8"
+              "title": "Outline of 202606121828"
             }
           },
           {
@@ -210,10 +223,28 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1dc5a40c7adb469e",
+  "active": "a7ca0b599bd69bca",
   "lastOpenFiles": [
-    "knowledge/202606111842.md",
+    "indices/dl/GDL-9,10.md",
+    "knowledge/202606121828.md",
+    "Excalidraw/Drawing 2026-06-12 18.36.15.excalidraw.md",
+    "knowledge/202606121800.md",
+    "knowledge/202606121759.md",
+    "knowledge/202606121757.md",
+    "knowledge/202606121722.md",
+    "img/Pasted image 20260612173153.png",
+    "img/Pasted image 20260612172404.png",
+    "knowledge/202606121249.md",
+    "knowledge/202606121232.md",
+    "knowledge/202606121209.md",
+    "knowledge/202606121239.md",
+    "img/Pasted image 20260612123527.png",
+    "knowledge/202606121217.md",
+    "img/Pasted image 20260612122805.png",
+    "img/Pasted image 20260612122110.png",
+    "img/Pasted image 20260612121228.png",
     "indices/dl/GDL-8.md",
+    "knowledge/202606111842.md",
     "knowledge/202606111744.md",
     "knowledge/202606111838.md",
     "knowledge/202606111837.md",
@@ -228,32 +259,14 @@
     "indices/dl/GDL-4.md",
     "knowledge/202606101734.md",
     "indices/dl/GDL-7.md",
-    "knowledge/202606101700.md",
-    "knowledge/202606101555.md",
-    "knowledge/202606091806.md",
-    "knowledge/202606101616.md",
-    "indices/dl/draft/GDL-7 draft.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.base",
-    "knowledge/202606101553.md",
-    "utils/template/fleeting-template.md",
-    "knowledge/202606091805.md",
-    "knowledge/202606091712.md",
-    "knowledge/202606091754.md",
     "img/Pasted image 20260609175903.png",
-    "knowledge/202606091734.md",
-    "knowledge/202606091731.md",
     "img/Pasted image 20260609120300.png",
     "indices/dl/poster",
-    "img/Pasted image 20260509172444.png",
-    "img/Pasted image 20260509170702.png",
     "indices/dl/draft",
-    "img/Pasted image 20260307183915.png",
     "Excalidraw",
-    "img/Pasted image 20260307170758.png",
-    "img/Pasted image 20260307165457.png",
-    "img/Pasted image 20260307165431.png",
     "utils/Untitled",
     "indices/dl",
     "Untitled.canvas",
